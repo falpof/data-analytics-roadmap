@@ -1,0 +1,6 @@
+category,unique_products,sales,sales_share_percent,revenue,revenue_share_percent,avg_price,above_avg_price,segment,most_expensive_product,cheapest_product
+Monitor,4,34,22.67,24956,28.2,734.0,Yes,Premium,ASUS ProArt,ASUS ProArt
+Laptop,4,35,23.33,19075,21.55,545.0,No,Premium,ASUS Zenbook,ASUS Zenbook
+Headphones,4,33,22.0,18047,20.39,546.88,No,Premium,Bose QC,Nothing Ear
+Keyboard,4,27,18.0,15513,17.53,574.56,No,Premium,NuPhy Air75,Akko 5075
+Smartphone,4,21,14.0,10919,12.34,519.95,No,Premium,Galaxy S25,Galaxy S25

@@ -1,0 +1,151 @@
+order_id,product,category,price,city,payment
+1,MACBOOK AIR M3 ,LAPTOP,129,London,Cash
+2,Keychron K2,Keyboard,199,Warsaw,Apple Pay
+3, sony wh-1000xm6,HEADPHONES,999,Prague,Card
+4,LG UltraFine,monitor,349,Dubai,Cash
+5,ASUS Zenbook, Laptop,1599,London,Cash
+6,Nothing Phone,Smartphone,89,Berlin,Google Pay
+7, AirPods Pro,Headphones,349,London,Cash
+8,NuPhy Air75,Keyboard ,129,London,Cash
+9,LG UltraFine,MONITOR,1299,Berlin,Apple Pay
+10,Dell XPS 13,laptop,349,Prague,Cash
+11,Pixel 10, smartphone,349,London,Card
+12, iphone 16,Smartphone ,349,Prague,Google Pay
+13,Galaxy S25,SMARTPHONE,89,Prague,Cash
+14, LOGITECH MX KEYS, Keyboard,999,London,Cash
+15, AKKO 5075,Keyboard,89,Dubai,Card
+16,samsung odyssey , Monitor ,129,Warsaw,Card
+17,MACBOOK AIR M3,LAPTOP ,799,Dubai,Google Pay
+18,Nothing Ear,headphones,89,Prague,Card
+19, AirPods Pro, HEADPHONES,129,London,Google Pay
+20,thinkpad x1 ,Laptop,499,London,Apple Pay
+21,Dell UltraSharp, Monitor,129,Prague,Cash
+22, nuphy air75,Keyboard,1299,Dubai,Apple Pay
+23,THINKPAD X1,Laptop ,349,Prague,Google Pay
+24, AIRPODS PRO,Headphones,1299,Warsaw,Card
+25,MACBOOK AIR M3,LAPTOP,499,Dubai,Apple Pay
+26,Galaxy S25,Smartphone,199,London,Google Pay
+27,ThinkPad X1,Laptop,129,Warsaw,Card
+28, Dell UltraSharp,Monitor ,349,Dubai,Apple Pay
+29,NOTHING EAR,Headphones,89,Dubai,Google Pay
+30,bose qc, Headphones ,1299,London,Apple Pay
+31,LG UltraFine, Monitor,499,Warsaw,Apple Pay
+32, Logitech MX Keys, Keyboard,349,Berlin,Cash
+33,samsung odyssey,MONITOR,1299,Prague,Apple Pay
+34,THINKPAD X1 , LAPTOP,799,Prague,Cash
+35,ASUS ProArt ,Monitor,1299,Warsaw,Card
+36,logitech mx keys ,Keyboard,999,Prague,Google Pay
+37,Akko 5075, Keyboard,249,Berlin,Google Pay
+38, DELL XPS 13, laptop,799,Warsaw,Apple Pay
+39,Akko 5075 ,Keyboard,799,Warsaw,Card
+40,Bose QC,Headphones,249,Berlin,Google Pay
+41,LG UltraFine,Monitor,799,Prague,Card
+42, asus zenbook, Laptop,799,Berlin,Card
+43,LG UltraFine , MONITOR,249,London,Card
+44, logitech mx keys,Keyboard,129,London,Apple Pay
+45,MacBook Air M3,Laptop ,249,Dubai,Apple Pay
+46,keychron k2,KEYBOARD ,799,Warsaw,Card
+47,Samsung Odyssey,Monitor,1299,Warsaw,Google Pay
+48,Samsung Odyssey ,Monitor,499,Dubai,Google Pay
+49,Sony WH-1000XM6,Headphones,249,Dubai,Cash
+50,ASUS ProArt ,Monitor ,249,Berlin,Apple Pay
+51,Samsung Odyssey,MONITOR,129,Prague,Cash
+52,Galaxy S25,Smartphone,499,London,Apple Pay
+53,ThinkPad X1, Laptop,1599,Berlin,Google Pay
+54,ASUS ProArt, Monitor ,89,London,Cash
+55, NuPhy Air75 ,Keyboard,999,Berlin,Google Pay
+56,AirPods Pro, HEADPHONES,129,London,Card
+57,asus proart,monitor,349,Prague,Cash
+58,LG UltraFine, Monitor ,1599,Berlin,Google Pay
+59,ASUS Zenbook,laptop ,499,Prague,Apple Pay
+60, MacBook Air M3, Laptop,199,Warsaw,Google Pay
+61,Sony WH-1000XM6,HEADPHONES,199,Berlin,Google Pay
+62,SAMSUNG ODYSSEY, monitor,1299,Dubai,Google Pay
+63, LG UltraFine,Monitor ,999,Warsaw,Card
+64,thinkpad x1, laptop,199,Warsaw,Apple Pay
+65,NuPhy Air75, Keyboard ,199,Dubai,Apple Pay
+66,Samsung Odyssey,Monitor,199,Warsaw,Google Pay
+67,Bose QC, Headphones,799,Dubai,Apple Pay
+68,ASUS ProArt,Monitor ,129,Warsaw,Card
+69, Akko 5075 , Keyboard,799,Dubai,Apple Pay
+70,Akko 5075,keyboard,349,London,Card
+71,LG ULTRAFINE,MONITOR ,499,Berlin,Google Pay
+72,GALAXY S25, Smartphone,1599,London,Cash
+73,Samsung Odyssey,monitor,1599,Berlin,Google Pay
+74,Nothing Ear , Headphones,349,Dubai,Google Pay
+75,AIRPODS PRO,Headphones,249,Prague,Apple Pay
+76,Galaxy S25,Smartphone,349,Warsaw,Card
+77,NuPhy Air75 , Keyboard ,1299,Prague,Apple Pay
+78,Pixel 10,SMARTPHONE,249,Warsaw,Apple Pay
+79, ASUS Zenbook,Laptop,129,London,Google Pay
+80,dell xps 13 ,LAPTOP,89,Berlin,Google Pay
+81, MacBook Air M3,Laptop,199,Warsaw,Card
+82,ASUS ProArt,Monitor ,499,Prague,Apple Pay
+83,ASUS Zenbook, Laptop ,89,Berlin,Cash
+84, galaxy s25,smartphone,89,Berlin,Cash
+85,PIXEL 10 ,SMARTPHONE,349,Dubai,Cash
+86,LG UltraFine, MONITOR,1299,Berlin,Google Pay
+87,MACBOOK AIR M3,Laptop,199,Dubai,Cash
+88,Bose QC,headphones,1299,London,Google Pay
+89,Dell UltraSharp,Monitor,999,Dubai,Card
+90,MACBOOK AIR M3, Laptop,799,Berlin,Google Pay
+91,Dell XPS 13,laptop ,499,Dubai,Apple Pay
+92,Logitech MX Keys,keyboard,349,Dubai,Cash
+93,BOSE QC,Headphones ,129,Prague,Cash
+94,ASUS ProArt ,MONITOR,1599,Dubai,Card
+95,Nothing Ear,Headphones ,1599,Warsaw,Apple Pay
+96,thinkpad x1, Laptop ,89,Warsaw,Google Pay
+97,Galaxy S25,SMARTPHONE ,89,Warsaw,Card
+98,NOTHING EAR, Headphones,499,Dubai,Google Pay
+99,thinkpad x1,LAPTOP ,129,Prague,Cash
+100,Bose QC, Headphones ,129,London,Google Pay
+101,ASUS ProArt,Monitor,999,Warsaw,Apple Pay
+102,AIRPODS PRO ,Headphones,129,Prague,Google Pay
+103,LG UltraFine,MONITOR ,499,Dubai,Cash
+104,ThinkPad X1,Laptop,1599,Dubai,Apple Pay
+105, Dell XPS 13,Laptop,1599,London,Apple Pay
+106, nothing ear,headphones,1299,Dubai,Google Pay
+107, NuPhy Air75,KEYBOARD ,349,Dubai,Card
+108,sony wh-1000xm6 ,HEADPHONES,499,London,Google Pay
+109,nuphy air75,KEYBOARD,1599,Warsaw,Google Pay
+110,NOTHING EAR,headphones,499,Prague,Card
+111,Keychron K2, Keyboard,999,Berlin,Card
+112,LG ULTRAFINE, monitor,499,London,Cash
+113,Dell XPS 13,LAPTOP,249,London,Google Pay
+114, dell xps 13 ,Laptop ,1299,Dubai,Cash
+115,pixel 10,SMARTPHONE ,1299,Prague,Card
+116, ASUS ProArt,monitor ,129,Prague,Apple Pay
+117,iPhone 16,SMARTPHONE,199,Dubai,Google Pay
+118, Dell XPS 13,Laptop,89,London,Apple Pay
+119,airpods pro,Headphones,199,Warsaw,Google Pay
+120,bose qc,HEADPHONES,349,Berlin,Google Pay
+121, Akko 5075,Keyboard,89,Dubai,Google Pay
+122,Sony WH-1000XM6 , Headphones ,799,Prague,Card
+123,Logitech MX Keys,Keyboard,249,Dubai,Card
+124,nothing phone,Smartphone ,999,London,Card
+125,IPHONE 16,Smartphone,129,Prague,Apple Pay
+126,Sony WH-1000XM6,HEADPHONES ,999,Dubai,Apple Pay
+127,nuphy air75, Keyboard,799,Warsaw,Card
+128,Pixel 10,SMARTPHONE,199,Warsaw,Card
+129,ThinkPad X1 ,LAPTOP,249,Prague,Apple Pay
+130,Pixel 10 ,Smartphone ,499,Prague,Card
+131, MacBook Air M3,Laptop,1299,Berlin,Apple Pay
+132,DELL ULTRASHARP, Monitor,1599,London,Apple Pay
+133,Bose QC ,Headphones,129,Dubai,Apple Pay
+134, asus proart,Monitor,1299,Warsaw,Google Pay
+135, Nothing Ear, headphones,999,Berlin,Card
+136, ASUS Zenbook, Laptop ,349,Dubai,Google Pay
+137,Akko 5075, Keyboard,499,Prague,Apple Pay
+138,GALAXY S25,SMARTPHONE,1299,London,Apple Pay
+139, NuPhy Air75,Keyboard,349,Warsaw,Card
+140,Bose QC,headphones,1599,Prague,Cash
+141, ASUS Zenbook, laptop,129,London,Card
+142,samsung odyssey,Monitor,199,Prague,Cash
+143,NuPhy Air75,Keyboard,349,Prague,Google Pay
+144,Galaxy S25,Smartphone,999,Berlin,Apple Pay
+145,AirPods Pro,HEADPHONES,129,Berlin,Google Pay
+146, Nothing Ear,Headphones ,89,Prague,Cash
+147, iPhone 16, SMARTPHONE,999,Warsaw,Cash
+148,Bose QC , HEADPHONES,199,Warsaw,Cash
+149,ASUS Zenbook ,Laptop ,499,Berlin,Google Pay
+150,Akko 5075 ,Keyboard,199,Dubai,Apple Pay
