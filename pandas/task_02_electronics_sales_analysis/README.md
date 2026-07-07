@@ -45,9 +45,10 @@ Some product and category names contain inconsistent formatting that must be cle
 - `to_csv()`
 
 ## Files
-- `solution.py` – my solution
-- `orders_electronics_dirty_150.csv` – dataset
-- `report.csv` – generated report
+- `solution.py`
+- `orders_electronics_dirty_150.csv`
+- `report.csv`
+- `dashboard_preview,png` 
 
 ## Status
 ✅ Completed
