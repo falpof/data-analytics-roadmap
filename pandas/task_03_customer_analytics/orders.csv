@@ -1,0 +1,2201 @@
+order_id,customer_id,order_date,product,category
+1001,100,2024-12-23,Sony WH-1000XM6,Headphones
+1002,53,29/05/2024,ThinkPad X1,Laptop
+1003,396,2025-05-20,Bose QC,Headphones
+1004,322,2024-11-19,MacBook Air M3,Laptop
+1005,303,2024-02-27,Sony WH-1000XM6,Headphones
+1006,30,12/01/2025,ThinkPad X1,Laptop
+1007,237,2024-02-12,Bose QC,Headphones
+1008,310,02/05/2025,LG UltraFine,Monitor
+1009,366,2024-03-27,LG UltraFine,Monitor
+1010,269,19/06/2025,Dell UltraSharp,Monitor
+1011,210,2024-12-12,ASUS ProArt,Monitor
+1012,169,2024-04-06,LG UltraFine,Monitor
+1013,42,2024-05-24,Sony WH-1000XM6,Headphones
+1014,305,2024-03-27,ThinkPad X1,Laptop
+1015,344,2025-06-23,Galaxy S25,Smartphone
+1016,186,2024-11-12,MacBook Air M3,Laptop
+1017,116,20/05/2024,MacBook Air M3,Laptop
+1018,339,2024-12-10,Logitech MX Keys,Keyboard
+1019,93,2024-06-18,NuPhy Air75,Keyboard
+1020,313,2024-10-18,Logitech MX Keys,Keyboard
+1021,159,2025-04-25,ASUS Zenbook,Laptop
+1022,394,2024-10-15,Logitech MX Keys,Keyboard
+1023,310,21/05/2024,ThinkPad X1,Laptop
+1024,365,12/06/2025,Galaxy S25,Smartphone
+1025,263,30/05/2024,AirPods Pro,Headphones
+1026,14,2025-02-28,iPhone 16,Smartphone
+1027,192,2024-08-17,iPhone 16,Smartphone
+1028,71,2024-02-09,ThinkPad X1,Laptop
+1029,230,06/01/2024,Galaxy S25,Smartphone
+1030,57,2024-10-22,ASUS Zenbook,Laptop
+1031,33,2024-04-23,Bose QC,Headphones
+1032,368,2024-05-27,ThinkPad X1,Laptop
+1033,96,2024-03-28,LG UltraFine,Monitor
+1034,200,2025-04-26,iPhone 16,Smartphone
+1035,183,10/03/2024,Sony WH-1000XM6,Headphones
+1036,69,2024-02-15,Sony WH-1000XM6,Headphones
+1037,357,05/05/2025,ASUS ProArt,Monitor
+1038,151,2024-07-25,iPhone 16,Smartphone
+1039,264,2025-02-11,LG UltraFine,Monitor
+1040,183,2024-02-18,ASUS ProArt,Monitor
+1041,205,2025-03-26,AirPods Pro,Headphones
+1042,266,30/09/2024,Logitech MX Keys,Keyboard
+1043,280,27/10/2024,Sony WH-1000XM6,Headphones
+1044,229,2025-03-12,MacBook Air M3,Laptop
+1045,315,2025-03-21,ThinkPad X1,Laptop
+1046,344,2025-02-19,Sony WH-1000XM6,Headphones
+1047,74,24/03/2025,iPhone 16,Smartphone
+1048,197,03/02/2024,Dell UltraSharp,Monitor
+1049,228,19/03/2024,Dell UltraSharp,Monitor
+1050,128,2024-04-26,iPhone 16,Smartphone
+1051,135,2024-09-23,NuPhy Air75,Keyboard
+1052,103,2024-05-05,MacBook Air M3,Laptop
+1053,350,2024-11-23,ASUS ProArt,Monitor
+1054,154,2024-06-10,NuPhy Air75,Keyboard
+1055,261,2024-08-17,Galaxy S25,Smartphone
+1056,14,2025-01-04,LG UltraFine,Monitor
+1057,314,2024-03-29,Galaxy S25,Smartphone
+1058,394,23/02/2025,Dell UltraSharp,Monitor
+1059,239,13/06/2025,Sony WH-1000XM6,Headphones
+1060,394,2024-05-12,AirPods Pro,Headphones
+1061,156,2024-06-17,MacBook Air M3,Laptop
+1062,41,2024-09-13,ASUS Zenbook,Laptop
+1063,315,2024-04-05,LG UltraFine,Monitor
+1064,88,11/12/2024,Dell UltraSharp,Monitor
+1065,329,28/09/2024,ASUS ProArt,Monitor
+1066,322,2024-10-23,ASUS ProArt,Monitor
+1067,233,15/03/2024,NuPhy Air75,Keyboard
+1068,105,14/12/2024,Dell UltraSharp,Monitor
+1069,205,2024-05-13,Logitech MX Keys,Keyboard
+1070,239,2024-05-05,ThinkPad X1,Laptop
+1071,197,2025-03-04,ASUS Zenbook,Laptop
+1072,98,2024-06-12,Bose QC,Headphones
+1073,12,2024-04-02,AirPods Pro,Headphones
+1074,25,2024-02-21,ThinkPad X1,Laptop
+1075,275,2024-01-09,Galaxy S25,Smartphone
+1076,188,16/02/2024,AirPods Pro,Headphones
+1077,38,2025-01-30,LG UltraFine,Monitor
+1078,50,2025-02-07,Sony WH-1000XM6,Headphones
+1079,102,2025-06-05,AirPods Pro,Headphones
+1080,243,15/06/2025,Bose QC,Headphones
+1081,314,2024-11-22,MacBook Air M3,Laptop
+1082,260,2025-06-05,LG UltraFine,Monitor
+1083,189,05/12/2024,ASUS ProArt,Monitor
+1084,306,2025-04-30,ThinkPad X1,Laptop
+1085,370,2024-02-22,Dell UltraSharp,Monitor
+1086,349,2024-09-05,iPhone 16,Smartphone
+1087,226,17/11/2024,AirPods Pro,Headphones
+1088,377,04/03/2024,NuPhy Air75,Keyboard
+1089,270,2025-01-20,Sony WH-1000XM6,Headphones
+1090,280,2024-12-28,ASUS ProArt,Monitor
+1091,99,2024-09-09,ThinkPad X1,Laptop
+1092,361,2024-07-31,NuPhy Air75,Keyboard
+1093,148,2024-05-04,Dell UltraSharp,Monitor
+1094,396,29/05/2024,ThinkPad X1,Laptop
+1095,227,2024-09-19,NuPhy Air75,Keyboard
+1096,288,05/10/2024,MacBook Air M3,Laptop
+1097,26,19/08/2024,ASUS ProArt,Monitor
+1098,52,2024-05-20,iPhone 16,Smartphone
+1099,335,2025-05-02,Bose QC,Headphones
+1100,147,01/03/2024,Logitech MX Keys,Keyboard
+1101,90,2025-03-03,MacBook Air M3,Laptop
+1102,96,23/10/2024,iPhone 16,Smartphone
+1103,146,2025-04-10,ASUS ProArt,Monitor
+1104,140,16/07/2024,Logitech MX Keys,Keyboard
+1105,368,2024-07-09,iPhone 16,Smartphone
+1106,90,2025-02-19,AirPods Pro,Headphones
+1107,72,2025-05-03,Sony WH-1000XM6,Headphones
+1108,121,02/04/2025,Logitech MX Keys,Keyboard
+1109,134,03/01/2025,NuPhy Air75,Keyboard
+1110,82,2025-02-19,ASUS ProArt,Monitor
+1111,328,2024-10-29,Sony WH-1000XM6,Headphones
+1112,79,2025-04-10,NuPhy Air75,Keyboard
+1113,388,11/08/2024,Logitech MX Keys,Keyboard
+1114,271,2025-01-05,Galaxy S25,Smartphone
+1115,294,2024-06-02,MacBook Air M3,Laptop
+1116,368,2025-05-15,Galaxy S25,Smartphone
+1117,68,2025-06-09,AirPods Pro,Headphones
+1118,371,23/01/2024,AirPods Pro,Headphones
+1119,297,2024-03-15,iPhone 16,Smartphone
+1120,36,28/04/2025,iPhone 16,Smartphone
+1121,192,2025-01-26,Bose QC,Headphones
+1122,350,2024-05-16,ASUS ProArt,Monitor
+1123,271,2024-05-10,NuPhy Air75,Keyboard
+1124,238,2025-03-10,LG UltraFine,Monitor
+1125,80,2024-10-09,ASUS Zenbook,Laptop
+1126,339,2025-03-05,Dell UltraSharp,Monitor
+1127,106,2024-03-09,Galaxy S25,Smartphone
+1128,380,2024-02-15,AirPods Pro,Headphones
+1129,258,2024-10-23,ASUS Zenbook,Laptop
+1130,122,2024-11-05,MacBook Air M3,Laptop
+1131,141,2024-03-03,LG UltraFine,Monitor
+1132,285,2025-05-22,iPhone 16,Smartphone
+1133,357,02/03/2025,AirPods Pro,Headphones
+1134,124,2024-08-18,ThinkPad X1,Laptop
+1135,288,2025-02-26,AirPods Pro,Headphones
+1136,105,04/12/2024,ASUS ProArt,Monitor
+1137,275,14/07/2024,iPhone 16,Smartphone
+1138,97,10/08/2024,Bose QC,Headphones
+1139,109,13/07/2024,NuPhy Air75,Keyboard
+1140,357,2024-07-28,AirPods Pro,Headphones
+1141,239,02/01/2025,ThinkPad X1,Laptop
+1142,51,2025-04-25,Logitech MX Keys,Keyboard
+1143,212,2024-02-16,Dell UltraSharp,Monitor
+1144,284,03/03/2025,ThinkPad X1,Laptop
+1145,256,2024-12-11,ThinkPad X1,Laptop
+1146,87,26/12/2024,MacBook Air M3,Laptop
+1147,269,2024-02-04,Galaxy S25,Smartphone
+1148,71,2024-08-24,Galaxy S25,Smartphone
+1149,192,2024-03-02,Dell UltraSharp,Monitor
+1150,9,2024-01-07,LG UltraFine,Monitor
+1151,275,2024-10-20,iPhone 16,Smartphone
+1152,55,08/04/2024,LG UltraFine,Monitor
+1153,182,2024-09-30,Logitech MX Keys,Keyboard
+1154,290,06/09/2024,NuPhy Air75,Keyboard
+1155,48,2025-02-19,AirPods Pro,Headphones
+1156,43,2025-05-26,AirPods Pro,Headphones
+1157,118,2024-08-04,NuPhy Air75,Keyboard
+1158,351,2024-10-14,LG UltraFine,Monitor
+1159,107,2024-05-27,Logitech MX Keys,Keyboard
+1160,84,2024-09-03,Dell UltraSharp,Monitor
+1161,197,2024-05-23,Logitech MX Keys,Keyboard
+1162,28,10/04/2024,AirPods Pro,Headphones
+1163,397,2024-11-30,iPhone 16,Smartphone
+1164,117,2024-12-30,LG UltraFine,Monitor
+1165,44,29/10/2024,Logitech MX Keys,Keyboard
+1166,195,2024-06-06,NuPhy Air75,Keyboard
+1167,158,2025-03-31,Sony WH-1000XM6,Headphones
+1168,221,2025-04-04,LG UltraFine,Monitor
+1169,182,2024-04-05,Dell UltraSharp,Monitor
+1170,150,2025-02-27,AirPods Pro,Headphones
+1171,293,2025-06-17,MacBook Air M3,Laptop
+1172,138,19/05/2025,MacBook Air M3,Laptop
+1173,248,19/03/2024,Sony WH-1000XM6,Headphones
+1174,235,2024-04-19,MacBook Air M3,Laptop
+1175,169,2025-03-26,Sony WH-1000XM6,Headphones
+1176,154,2024-11-24,Dell UltraSharp,Monitor
+1177,204,2024-11-22,ThinkPad X1,Laptop
+1178,167,2025-01-20,ThinkPad X1,Laptop
+1179,304,2024-07-03,ASUS ProArt,Monitor
+1180,225,25/10/2024,NuPhy Air75,Keyboard
+1181,72,06/11/2024,ASUS Zenbook,Laptop
+1182,38,2025-04-04,Dell UltraSharp,Monitor
+1183,279,2024-02-07,Logitech MX Keys,Keyboard
+1184,56,2024-09-11,ASUS ProArt,Monitor
+1185,386,2024-12-05,Logitech MX Keys,Keyboard
+1186,262,2025-06-15,LG UltraFine,Monitor
+1187,201,2025-04-19,Logitech MX Keys,Keyboard
+1188,13,09/05/2025,Galaxy S25,Smartphone
+1189,374,2024-05-25,Sony WH-1000XM6,Headphones
+1190,179,2025-05-02,Galaxy S25,Smartphone
+1191,154,2024-02-15,Logitech MX Keys,Keyboard
+1192,347,17/06/2024,NuPhy Air75,Keyboard
+1193,287,12/03/2025,Bose QC,Headphones
+1194,328,18/03/2025,AirPods Pro,Headphones
+1195,304,15/03/2025,AirPods Pro,Headphones
+1196,296,2024-04-14,Logitech MX Keys,Keyboard
+1197,235,2024-04-26,ThinkPad X1,Laptop
+1198,313,05/02/2025,Dell UltraSharp,Monitor
+1199,345,2024-10-31,Dell UltraSharp,Monitor
+1200,123,08/11/2024,Galaxy S25,Smartphone
+1201,215,2024-05-21,Dell UltraSharp,Monitor
+1202,285,19/06/2024,Bose QC,Headphones
+1203,184,10/01/2024,Bose QC,Headphones
+1204,210,2025-05-18,AirPods Pro,Headphones
+1205,290,2024-02-01,Logitech MX Keys,Keyboard
+1206,276,2024-10-22,MacBook Air M3,Laptop
+1207,294,2024-04-26,ThinkPad X1,Laptop
+1208,390,27/03/2025,LG UltraFine,Monitor
+1209,17,2025-04-05,ThinkPad X1,Laptop
+1210,398,2024-08-30,ASUS Zenbook,Laptop
+1211,85,22/05/2024,Logitech MX Keys,Keyboard
+1212,273,2024-10-14,Dell UltraSharp,Monitor
+1213,294,2024-09-30,LG UltraFine,Monitor
+1214,385,2025-02-25,iPhone 16,Smartphone
+1215,128,2024-05-29,NuPhy Air75,Keyboard
+1216,73,2024-10-02,ASUS ProArt,Monitor
+1217,264,2024-10-11,NuPhy Air75,Keyboard
+1218,298,2024-01-03,Logitech MX Keys,Keyboard
+1219,33,2025-02-11,ASUS Zenbook,Laptop
+1220,166,2024-10-17,Sony WH-1000XM6,Headphones
+1221,350,19/02/2024,iPhone 16,Smartphone
+1222,64,2024-06-10,Bose QC,Headphones
+1223,353,2024-05-15,ASUS ProArt,Monitor
+1224,336,04/01/2025,ThinkPad X1,Laptop
+1225,203,2024-11-08,NuPhy Air75,Keyboard
+1226,1,06/08/2024,Bose QC,Headphones
+1227,5,2024-01-09,NuPhy Air75,Keyboard
+1228,245,2024-03-13,ASUS Zenbook,Laptop
+1229,161,11/01/2025,ThinkPad X1,Laptop
+1230,36,2024-01-09,Dell UltraSharp,Monitor
+1231,211,29/03/2025,ASUS Zenbook,Laptop
+1232,180,2025-03-15,Sony WH-1000XM6,Headphones
+1233,284,2024-10-18,Logitech MX Keys,Keyboard
+1234,266,2025-06-05,ASUS Zenbook,Laptop
+1235,254,30/01/2025,Galaxy S25,Smartphone
+1236,185,2024-11-20,MacBook Air M3,Laptop
+1237,280,2024-06-25,Logitech MX Keys,Keyboard
+1238,301,10/03/2024,iPhone 16,Smartphone
+1239,260,2024-10-20,ASUS ProArt,Monitor
+1240,43,05/06/2024,ThinkPad X1,Laptop
+1241,275,2024-11-30,AirPods Pro,Headphones
+1242,358,2025-03-23,NuPhy Air75,Keyboard
+1243,223,2024-04-28,Bose QC,Headphones
+1244,7,20/05/2024,NuPhy Air75,Keyboard
+1245,86,2025-01-15,MacBook Air M3,Laptop
+1246,172,2025-03-15,ThinkPad X1,Laptop
+1247,255,2025-04-11,LG UltraFine,Monitor
+1248,189,2024-06-10,ThinkPad X1,Laptop
+1249,380,05/06/2025,iPhone 16,Smartphone
+1250,242,2025-01-07,AirPods Pro,Headphones
+1251,115,2024-11-25,ASUS Zenbook,Laptop
+1252,293,2025-01-16,Galaxy S25,Smartphone
+1253,265,17/02/2024,AirPods Pro,Headphones
+1254,168,2024-03-29,LG UltraFine,Monitor
+1255,379,2024-09-05,Bose QC,Headphones
+1256,78,07/01/2024,AirPods Pro,Headphones
+1257,1,2025-01-20,NuPhy Air75,Keyboard
+1258,215,2025-05-18,iPhone 16,Smartphone
+1259,23,2024-08-25,LG UltraFine,Monitor
+1260,298,07/04/2024,LG UltraFine,Monitor
+1261,223,13/05/2024,ASUS Zenbook,Laptop
+1262,163,08/04/2025,ThinkPad X1,Laptop
+1263,80,2024-04-18,MacBook Air M3,Laptop
+1264,395,2024-07-31,Bose QC,Headphones
+1265,81,2024-11-07,NuPhy Air75,Keyboard
+1266,47,2024-09-11,Sony WH-1000XM6,Headphones
+1267,90,2024-02-01,AirPods Pro,Headphones
+1268,49,2025-04-18,Galaxy S25,Smartphone
+1269,400,15/08/2024,MacBook Air M3,Laptop
+1270,39,23/01/2024,Galaxy S25,Smartphone
+1271,170,2024-05-05,iPhone 16,Smartphone
+1272,371,08/02/2025,Bose QC,Headphones
+1273,110,10/07/2024,ThinkPad X1,Laptop
+1274,332,2024-10-29,Bose QC,Headphones
+1275,144,2025-01-27,MacBook Air M3,Laptop
+1276,323,2024-01-20,AirPods Pro,Headphones
+1277,177,2025-05-29,Sony WH-1000XM6,Headphones
+1278,16,2024-10-14,iPhone 16,Smartphone
+1279,82,2024-04-12,ASUS Zenbook,Laptop
+1280,295,2025-02-01,Sony WH-1000XM6,Headphones
+1281,122,2024-11-21,Logitech MX Keys,Keyboard
+1282,361,2024-12-26,Dell UltraSharp,Monitor
+1283,278,2024-11-12,MacBook Air M3,Laptop
+1284,11,23/06/2025,Bose QC,Headphones
+1285,175,2024-06-30,Logitech MX Keys,Keyboard
+1286,301,25/05/2024,Logitech MX Keys,Keyboard
+1287,192,09/02/2025,Dell UltraSharp,Monitor
+1288,375,2025-03-23,Logitech MX Keys,Keyboard
+1289,363,2024-12-31,ASUS Zenbook,Laptop
+1290,376,28/10/2024,MacBook Air M3,Laptop
+1291,395,2024-02-03,MacBook Air M3,Laptop
+1292,255,2024-05-24,Sony WH-1000XM6,Headphones
+1293,326,2024-03-31,NuPhy Air75,Keyboard
+1294,6,28/09/2024,ASUS Zenbook,Laptop
+1295,369,2024-01-02,iPhone 16,Smartphone
+1296,253,2025-01-22,Sony WH-1000XM6,Headphones
+1297,84,2025-04-07,Galaxy S25,Smartphone
+1298,134,2024-04-17,Galaxy S25,Smartphone
+1299,281,2024-04-05,Sony WH-1000XM6,Headphones
+1300,221,2024-06-17,Dell UltraSharp,Monitor
+1301,106,2024-07-13,AirPods Pro,Headphones
+1302,339,15/10/2024,ThinkPad X1,Laptop
+1303,79,25/02/2024,Sony WH-1000XM6,Headphones
+1304,50,27/01/2024,ASUS Zenbook,Laptop
+1305,60,2024-11-11,Logitech MX Keys,Keyboard
+1306,329,2025-01-31,MacBook Air M3,Laptop
+1307,23,2024-09-26,Bose QC,Headphones
+1308,78,2024-04-09,Galaxy S25,Smartphone
+1309,284,2024-03-03,AirPods Pro,Headphones
+1310,294,29/08/2024,Bose QC,Headphones
+1311,62,2025-04-04,MacBook Air M3,Laptop
+1312,65,13/02/2024,AirPods Pro,Headphones
+1313,305,2024-09-21,Sony WH-1000XM6,Headphones
+1314,199,2025-02-10,LG UltraFine,Monitor
+1315,359,2025-06-19,Logitech MX Keys,Keyboard
+1316,55,13/04/2024,Logitech MX Keys,Keyboard
+1317,136,2025-01-27,ASUS ProArt,Monitor
+1318,142,2025-02-16,MacBook Air M3,Laptop
+1319,203,05/12/2024,NuPhy Air75,Keyboard
+1320,11,2024-12-11,Logitech MX Keys,Keyboard
+1321,117,2024-05-17,ThinkPad X1,Laptop
+1322,374,2025-03-02,Dell UltraSharp,Monitor
+1323,380,2025-05-11,Logitech MX Keys,Keyboard
+1324,34,2024-11-14,NuPhy Air75,Keyboard
+1325,89,2024-07-16,ASUS Zenbook,Laptop
+1326,185,2024-07-22,ThinkPad X1,Laptop
+1327,349,2024-02-01,ASUS Zenbook,Laptop
+1328,301,24/12/2024,Sony WH-1000XM6,Headphones
+1329,15,30/01/2025,iPhone 16,Smartphone
+1330,332,18/08/2024,ASUS ProArt,Monitor
+1331,400,2024-01-10,Bose QC,Headphones
+1332,130,2024-11-08,NuPhy Air75,Keyboard
+1333,179,15/04/2025,ThinkPad X1,Laptop
+1334,300,2024-04-14,iPhone 16,Smartphone
+1335,153,20/04/2024,Bose QC,Headphones
+1336,134,01/11/2024,ASUS Zenbook,Laptop
+1337,339,23/11/2024,ASUS ProArt,Monitor
+1338,133,2025-03-04,AirPods Pro,Headphones
+1339,176,2024-08-15,ASUS ProArt,Monitor
+1340,88,04/07/2024,ThinkPad X1,Laptop
+1341,349,09/12/2024,ASUS ProArt,Monitor
+1342,170,2025-01-15,ThinkPad X1,Laptop
+1343,28,2024-03-13,Bose QC,Headphones
+1344,212,25/02/2024,MacBook Air M3,Laptop
+1345,74,19/11/2024,NuPhy Air75,Keyboard
+1346,161,2024-02-29,iPhone 16,Smartphone
+1347,251,2024-03-31,MacBook Air M3,Laptop
+1348,245,27/01/2025,iPhone 16,Smartphone
+1349,165,2024-07-14,iPhone 16,Smartphone
+1350,356,18/12/2024,ThinkPad X1,Laptop
+1351,86,07/03/2024,iPhone 16,Smartphone
+1352,223,2024-05-17,Sony WH-1000XM6,Headphones
+1353,207,20/01/2024,ASUS Zenbook,Laptop
+1354,302,31/05/2025,MacBook Air M3,Laptop
+1355,328,2024-09-18,Logitech MX Keys,Keyboard
+1356,335,2024-01-21,iPhone 16,Smartphone
+1357,281,2024-09-15,Bose QC,Headphones
+1358,216,2024-04-13,ASUS ProArt,Monitor
+1359,54,2025-06-07,NuPhy Air75,Keyboard
+1360,102,23/07/2024,Logitech MX Keys,Keyboard
+1361,361,23/02/2025,ThinkPad X1,Laptop
+1362,170,28/08/2024,iPhone 16,Smartphone
+1363,77,2024-04-02,Logitech MX Keys,Keyboard
+1364,330,2024-08-24,Bose QC,Headphones
+1365,52,2024-06-27,iPhone 16,Smartphone
+1366,379,2024-04-28,Galaxy S25,Smartphone
+1367,340,2024-06-23,Sony WH-1000XM6,Headphones
+1368,191,16/12/2024,MacBook Air M3,Laptop
+1369,198,2025-05-04,Logitech MX Keys,Keyboard
+1370,68,01/03/2024,MacBook Air M3,Laptop
+1371,93,2025-01-23,Logitech MX Keys,Keyboard
+1372,250,2024-04-25,AirPods Pro,Headphones
+1373,361,2025-06-21,Logitech MX Keys,Keyboard
+1374,266,2025-06-19,NuPhy Air75,Keyboard
+1375,178,2025-01-29,MacBook Air M3,Laptop
+1376,330,2024-06-09,LG UltraFine,Monitor
+1377,385,18/05/2025,Sony WH-1000XM6,Headphones
+1378,282,2025-01-22,AirPods Pro,Headphones
+1379,46,2025-05-25,Bose QC,Headphones
+1380,207,2025-02-26,iPhone 16,Smartphone
+1381,310,2024-11-07,LG UltraFine,Monitor
+1382,187,2024-02-25,ASUS Zenbook,Laptop
+1383,367,08/04/2025,Galaxy S25,Smartphone
+1384,182,2024-10-25,LG UltraFine,Monitor
+1385,253,2024-05-23,NuPhy Air75,Keyboard
+1386,97,03/05/2024,AirPods Pro,Headphones
+1387,56,2025-02-28,iPhone 16,Smartphone
+1388,396,2025-04-06,Bose QC,Headphones
+1389,3,2024-02-19,LG UltraFine,Monitor
+1390,355,2024-06-26,NuPhy Air75,Keyboard
+1391,215,2024-09-11,ThinkPad X1,Laptop
+1392,69,2024-05-21,AirPods Pro,Headphones
+1393,360,2024-11-17,NuPhy Air75,Keyboard
+1394,108,2024-10-24,ASUS ProArt,Monitor
+1395,364,2024-04-28,Logitech MX Keys,Keyboard
+1396,346,2024-10-19,AirPods Pro,Headphones
+1397,75,24/02/2024,ASUS ProArt,Monitor
+1398,350,2024-09-13,MacBook Air M3,Laptop
+1399,386,2024-02-03,Sony WH-1000XM6,Headphones
+1400,381,2025-02-02,ASUS Zenbook,Laptop
+1401,196,2025-01-31,AirPods Pro,Headphones
+1402,7,2024-09-14,ASUS Zenbook,Laptop
+1403,325,2025-01-11,Logitech MX Keys,Keyboard
+1404,151,2025-04-04,MacBook Air M3,Laptop
+1405,194,11/02/2024,AirPods Pro,Headphones
+1406,3,2024-12-04,Bose QC,Headphones
+1407,306,2024-02-22,Logitech MX Keys,Keyboard
+1408,294,2025-01-01,Galaxy S25,Smartphone
+1409,267,2024-03-10,Logitech MX Keys,Keyboard
+1410,48,2024-12-23,ASUS Zenbook,Laptop
+1411,151,2024-08-11,Logitech MX Keys,Keyboard
+1412,59,20/12/2024,Bose QC,Headphones
+1413,350,2024-11-24,AirPods Pro,Headphones
+1414,277,2024-10-16,iPhone 16,Smartphone
+1415,250,2024-02-14,ThinkPad X1,Laptop
+1416,50,2024-06-20,Logitech MX Keys,Keyboard
+1417,108,2024-08-06,ASUS ProArt,Monitor
+1418,332,2024-03-14,NuPhy Air75,Keyboard
+1419,45,16/03/2024,iPhone 16,Smartphone
+1420,133,2025-02-21,AirPods Pro,Headphones
+1421,200,01/05/2024,LG UltraFine,Monitor
+1422,359,2024-03-15,Sony WH-1000XM6,Headphones
+1423,145,2025-03-24,AirPods Pro,Headphones
+1424,274,2024-08-13,MacBook Air M3,Laptop
+1425,325,2024-05-27,ThinkPad X1,Laptop
+1426,284,24/05/2024,Galaxy S25,Smartphone
+1427,157,2024-08-03,NuPhy Air75,Keyboard
+1428,331,08/06/2025,MacBook Air M3,Laptop
+1429,59,2024-07-04,ASUS ProArt,Monitor
+1430,331,2024-03-15,ThinkPad X1,Laptop
+1431,170,2024-12-31,MacBook Air M3,Laptop
+1432,100,2024-11-21,Bose QC,Headphones
+1433,290,2025-01-08,Logitech MX Keys,Keyboard
+1434,127,2024-08-14,NuPhy Air75,Keyboard
+1435,348,2024-12-05,Bose QC,Headphones
+1436,283,2024-04-21,MacBook Air M3,Laptop
+1437,276,2024-07-20,ThinkPad X1,Laptop
+1438,260,2024-02-01,Dell UltraSharp,Monitor
+1439,283,2024-09-23,LG UltraFine,Monitor
+1440,201,2024-08-16,Logitech MX Keys,Keyboard
+1441,257,2025-06-06,Galaxy S25,Smartphone
+1442,388,2025-06-10,MacBook Air M3,Laptop
+1443,377,10/05/2025,Sony WH-1000XM6,Headphones
+1444,136,13/01/2025,ASUS Zenbook,Laptop
+1445,241,10/04/2025,iPhone 16,Smartphone
+1446,380,2024-09-26,Dell UltraSharp,Monitor
+1447,301,20/03/2024,LG UltraFine,Monitor
+1448,181,2024-12-19,Bose QC,Headphones
+1449,226,18/06/2024,ASUS Zenbook,Laptop
+1450,96,2024-06-10,Sony WH-1000XM6,Headphones
+1451,170,2024-04-26,Bose QC,Headphones
+1452,332,24/02/2025,iPhone 16,Smartphone
+1453,69,2025-06-08,iPhone 16,Smartphone
+1454,93,2025-06-13,AirPods Pro,Headphones
+1455,44,2024-08-09,Bose QC,Headphones
+1456,113,24/02/2025,Dell UltraSharp,Monitor
+1457,86,2024-12-16,Bose QC,Headphones
+1458,68,21/04/2024,iPhone 16,Smartphone
+1459,77,2024-04-08,MacBook Air M3,Laptop
+1460,48,08/05/2025,ASUS ProArt,Monitor
+1461,268,2025-03-06,Sony WH-1000XM6,Headphones
+1462,247,2025-01-25,Sony WH-1000XM6,Headphones
+1463,218,2024-05-17,ThinkPad X1,Laptop
+1464,307,22/02/2025,ThinkPad X1,Laptop
+1465,267,2024-01-08,AirPods Pro,Headphones
+1466,186,2024-04-19,MacBook Air M3,Laptop
+1467,290,09/01/2025,Dell UltraSharp,Monitor
+1468,283,2025-05-09,MacBook Air M3,Laptop
+1469,296,2024-12-18,Logitech MX Keys,Keyboard
+1470,229,14/06/2024,Galaxy S25,Smartphone
+1471,83,02/02/2025,ASUS ProArt,Monitor
+1472,308,21/03/2025,Galaxy S25,Smartphone
+1473,371,2025-01-28,AirPods Pro,Headphones
+1474,397,2024-06-28,ASUS ProArt,Monitor
+1475,100,2024-02-04,Logitech MX Keys,Keyboard
+1476,346,06/02/2024,Sony WH-1000XM6,Headphones
+1477,45,2024-10-09,Logitech MX Keys,Keyboard
+1478,266,2024-01-16,NuPhy Air75,Keyboard
+1479,372,2024-12-22,Sony WH-1000XM6,Headphones
+1480,207,05/01/2024,ThinkPad X1,Laptop
+1481,258,2024-10-28,Sony WH-1000XM6,Headphones
+1482,356,2025-03-29,AirPods Pro,Headphones
+1483,349,2025-04-16,Dell UltraSharp,Monitor
+1484,196,2024-08-13,ASUS ProArt,Monitor
+1485,265,2024-01-10,NuPhy Air75,Keyboard
+1486,345,2024-12-16,Galaxy S25,Smartphone
+1487,112,2024-10-02,MacBook Air M3,Laptop
+1488,378,2024-07-23,ASUS Zenbook,Laptop
+1489,104,2024-09-12,Dell UltraSharp,Monitor
+1490,347,19/05/2025,Dell UltraSharp,Monitor
+1491,191,2024-11-18,Bose QC,Headphones
+1492,252,2024-07-06,Logitech MX Keys,Keyboard
+1493,28,2025-06-22,Logitech MX Keys,Keyboard
+1494,202,2024-06-27,Bose QC,Headphones
+1495,353,2024-01-09,iPhone 16,Smartphone
+1496,186,2024-09-22,MacBook Air M3,Laptop
+1497,188,2024-07-07,Bose QC,Headphones
+1498,206,13/10/2024,Bose QC,Headphones
+1499,52,03/10/2024,Logitech MX Keys,Keyboard
+1500,75,2024-06-02,Bose QC,Headphones
+1501,323,2025-06-13,LG UltraFine,Monitor
+1502,288,18/02/2024,AirPods Pro,Headphones
+1503,244,2024-04-08,Bose QC,Headphones
+1504,177,21/01/2024,AirPods Pro,Headphones
+1505,400,2024-10-18,Sony WH-1000XM6,Headphones
+1506,196,2024-10-20,Bose QC,Headphones
+1507,216,18/02/2025,Galaxy S25,Smartphone
+1508,335,25/10/2024,NuPhy Air75,Keyboard
+1509,400,2025-01-06,NuPhy Air75,Keyboard
+1510,95,2024-01-24,MacBook Air M3,Laptop
+1511,86,10/02/2025,Galaxy S25,Smartphone
+1512,14,2025-02-10,LG UltraFine,Monitor
+1513,44,03/02/2025,ThinkPad X1,Laptop
+1514,68,23/06/2025,MacBook Air M3,Laptop
+1515,240,2024-10-05,LG UltraFine,Monitor
+1516,303,2025-04-12,ASUS ProArt,Monitor
+1517,178,08/05/2025,LG UltraFine,Monitor
+1518,212,2024-09-23,MacBook Air M3,Laptop
+1519,177,2024-10-20,Bose QC,Headphones
+1520,154,2024-01-10,Logitech MX Keys,Keyboard
+1521,281,2025-01-17,ASUS Zenbook,Laptop
+1522,84,03/02/2025,AirPods Pro,Headphones
+1523,146,02/10/2024,AirPods Pro,Headphones
+1524,57,2025-04-11,Dell UltraSharp,Monitor
+1525,165,20/01/2024,MacBook Air M3,Laptop
+1526,145,2024-10-02,MacBook Air M3,Laptop
+1527,78,16/01/2024,Bose QC,Headphones
+1528,238,02/02/2024,Sony WH-1000XM6,Headphones
+1529,137,2025-02-05,Galaxy S25,Smartphone
+1530,7,2024-05-04,Logitech MX Keys,Keyboard
+1531,378,2024-02-04,ASUS Zenbook,Laptop
+1532,243,2025-02-02,ASUS ProArt,Monitor
+1533,382,17/06/2025,Galaxy S25,Smartphone
+1534,27,11/08/2024,Galaxy S25,Smartphone
+1535,142,2024-05-02,AirPods Pro,Headphones
+1536,298,2025-05-01,NuPhy Air75,Keyboard
+1537,81,2025-05-26,Galaxy S25,Smartphone
+1538,183,2024-06-06,NuPhy Air75,Keyboard
+1539,163,2024-12-21,Logitech MX Keys,Keyboard
+1540,184,2024-05-17,ThinkPad X1,Laptop
+1541,278,2025-05-16,ASUS Zenbook,Laptop
+1542,141,2024-06-13,Galaxy S25,Smartphone
+1543,233,2024-01-01,Logitech MX Keys,Keyboard
+1544,318,2025-01-07,Logitech MX Keys,Keyboard
+1545,98,2025-06-20,ASUS ProArt,Monitor
+1546,210,25/11/2024,Galaxy S25,Smartphone
+1547,92,02/02/2024,ASUS Zenbook,Laptop
+1548,337,2025-05-16,LG UltraFine,Monitor
+1549,114,2024-03-13,iPhone 16,Smartphone
+1550,240,2024-03-03,Sony WH-1000XM6,Headphones
+1551,363,29/02/2024,Dell UltraSharp,Monitor
+1552,40,09/08/2024,LG UltraFine,Monitor
+1553,98,2024-07-16,LG UltraFine,Monitor
+1554,383,2024-04-18,Logitech MX Keys,Keyboard
+1555,54,19/06/2024,Logitech MX Keys,Keyboard
+1556,274,2025-03-29,Sony WH-1000XM6,Headphones
+1557,212,2025-03-16,NuPhy Air75,Keyboard
+1558,193,2024-09-17,Sony WH-1000XM6,Headphones
+1559,372,2024-02-05,ThinkPad X1,Laptop
+1560,154,2024-08-15,ASUS Zenbook,Laptop
+1561,49,2024-02-08,Bose QC,Headphones
+1562,120,2024-09-19,Logitech MX Keys,Keyboard
+1563,376,2024-03-20,NuPhy Air75,Keyboard
+1564,305,2024-11-03,iPhone 16,Smartphone
+1565,395,2024-12-08,Sony WH-1000XM6,Headphones
+1566,383,2024-01-12,ASUS ProArt,Monitor
+1567,164,2024-06-02,Sony WH-1000XM6,Headphones
+1568,229,31/05/2025,Galaxy S25,Smartphone
+1569,68,2024-12-10,Galaxy S25,Smartphone
+1570,135,2024-03-28,AirPods Pro,Headphones
+1571,247,2024-07-21,Bose QC,Headphones
+1572,125,2024-03-14,ThinkPad X1,Laptop
+1573,58,2025-02-27,AirPods Pro,Headphones
+1574,395,2024-11-08,MacBook Air M3,Laptop
+1575,226,15/02/2024,ASUS Zenbook,Laptop
+1576,379,2024-02-25,ASUS Zenbook,Laptop
+1577,176,2024-04-23,ThinkPad X1,Laptop
+1578,105,19/06/2025,Logitech MX Keys,Keyboard
+1579,193,23/06/2025,iPhone 16,Smartphone
+1580,28,2025-04-21,ASUS ProArt,Monitor
+1581,56,2024-01-20,ThinkPad X1,Laptop
+1582,261,2024-04-11,Sony WH-1000XM6,Headphones
+1583,102,2025-05-27,Bose QC,Headphones
+1584,272,2024-11-08,Sony WH-1000XM6,Headphones
+1585,351,2024-12-26,Sony WH-1000XM6,Headphones
+1586,32,2024-09-20,AirPods Pro,Headphones
+1587,116,2024-06-04,Sony WH-1000XM6,Headphones
+1588,267,20/08/2024,AirPods Pro,Headphones
+1589,230,2024-05-14,ASUS Zenbook,Laptop
+1590,159,2025-06-20,MacBook Air M3,Laptop
+1591,163,2024-03-10,LG UltraFine,Monitor
+1592,75,2024-01-31,Logitech MX Keys,Keyboard
+1593,227,2024-10-07,MacBook Air M3,Laptop
+1594,391,2024-09-30,Dell UltraSharp,Monitor
+1595,352,27/01/2024,Sony WH-1000XM6,Headphones
+1596,365,2025-01-17,MacBook Air M3,Laptop
+1597,99,2024-08-19,iPhone 16,Smartphone
+1598,114,26/07/2024,Logitech MX Keys,Keyboard
+1599,353,2024-11-28,Bose QC,Headphones
+1600,369,2024-11-16,AirPods Pro,Headphones
+1601,267,2024-04-21,Bose QC,Headphones
+1602,377,2024-02-10,LG UltraFine,Monitor
+1603,150,2025-03-26,AirPods Pro,Headphones
+1604,86,2025-03-08,ThinkPad X1,Laptop
+1605,238,2025-04-07,Galaxy S25,Smartphone
+1606,202,2025-02-27,Sony WH-1000XM6,Headphones
+1607,233,2024-04-02,ThinkPad X1,Laptop
+1608,47,2024-04-26,NuPhy Air75,Keyboard
+1609,373,2025-06-07,Dell UltraSharp,Monitor
+1610,394,2024-06-23,Sony WH-1000XM6,Headphones
+1611,75,2024-07-02,Logitech MX Keys,Keyboard
+1612,148,2024-07-04,Galaxy S25,Smartphone
+1613,7,2025-04-14,Bose QC,Headphones
+1614,122,2024-08-10,Dell UltraSharp,Monitor
+1615,308,2024-01-07,ASUS Zenbook,Laptop
+1616,26,08/07/2024,MacBook Air M3,Laptop
+1617,342,2024-11-01,Sony WH-1000XM6,Headphones
+1618,83,2024-10-18,Dell UltraSharp,Monitor
+1619,234,03/01/2025,iPhone 16,Smartphone
+1620,35,13/03/2025,LG UltraFine,Monitor
+1621,169,2025-06-23,AirPods Pro,Headphones
+1622,293,2024-03-30,Bose QC,Headphones
+1623,312,2024-11-20,ThinkPad X1,Laptop
+1624,315,2025-05-23,LG UltraFine,Monitor
+1625,363,24/10/2024,ASUS Zenbook,Laptop
+1626,316,28/02/2025,AirPods Pro,Headphones
+1627,328,25/07/2024,NuPhy Air75,Keyboard
+1628,260,27/11/2024,Logitech MX Keys,Keyboard
+1629,371,30/01/2024,MacBook Air M3,Laptop
+1630,19,19/05/2024,Bose QC,Headphones
+1631,237,27/02/2025,NuPhy Air75,Keyboard
+1632,285,2024-01-20,ASUS Zenbook,Laptop
+1633,77,2024-10-14,iPhone 16,Smartphone
+1634,293,2025-02-02,MacBook Air M3,Laptop
+1635,364,2024-02-02,ThinkPad X1,Laptop
+1636,232,2024-11-05,ASUS Zenbook,Laptop
+1637,399,2024-07-25,Galaxy S25,Smartphone
+1638,98,2024-12-14,Bose QC,Headphones
+1639,394,2024-04-10,LG UltraFine,Monitor
+1640,199,18/06/2025,Galaxy S25,Smartphone
+1641,171,23/04/2025,iPhone 16,Smartphone
+1642,296,2024-11-15,ASUS ProArt,Monitor
+1643,142,2024-11-22,Logitech MX Keys,Keyboard
+1644,141,2024-04-27,iPhone 16,Smartphone
+1645,278,2024-12-24,LG UltraFine,Monitor
+1646,88,2024-03-13,ThinkPad X1,Laptop
+1647,67,2024-01-30,Bose QC,Headphones
+1648,45,12/03/2025,AirPods Pro,Headphones
+1649,316,2024-12-30,ThinkPad X1,Laptop
+1650,387,21/04/2025,Dell UltraSharp,Monitor
+1651,234,2024-11-13,ASUS ProArt,Monitor
+1652,115,27/05/2024,Dell UltraSharp,Monitor
+1653,167,09/04/2025,Bose QC,Headphones
+1654,237,2024-06-23,ThinkPad X1,Laptop
+1655,208,2024-04-19,Sony WH-1000XM6,Headphones
+1656,206,2025-02-27,ASUS Zenbook,Laptop
+1657,34,2024-12-14,ASUS Zenbook,Laptop
+1658,279,2024-08-29,MacBook Air M3,Laptop
+1659,59,2025-04-19,Sony WH-1000XM6,Headphones
+1660,208,12/03/2024,Dell UltraSharp,Monitor
+1661,254,03/03/2024,Galaxy S25,Smartphone
+1662,388,30/05/2024,ASUS ProArt,Monitor
+1663,101,2024-07-29,ASUS ProArt,Monitor
+1664,368,2024-12-18,Galaxy S25,Smartphone
+1665,66,2024-10-28,iPhone 16,Smartphone
+1666,361,2025-01-02,Galaxy S25,Smartphone
+1667,360,2025-02-07,ASUS ProArt,Monitor
+1668,280,04/08/2024,ASUS ProArt,Monitor
+1669,185,03/03/2025,MacBook Air M3,Laptop
+1670,6,14/03/2024,ASUS ProArt,Monitor
+1671,70,2024-03-27,MacBook Air M3,Laptop
+1672,320,2024-07-03,Bose QC,Headphones
+1673,182,2024-08-19,MacBook Air M3,Laptop
+1674,375,2024-08-30,NuPhy Air75,Keyboard
+1675,18,2024-02-08,Dell UltraSharp,Monitor
+1676,354,2024-03-22,MacBook Air M3,Laptop
+1677,265,2024-03-21,LG UltraFine,Monitor
+1678,351,15/11/2024,Dell UltraSharp,Monitor
+1679,233,2025-06-08,Bose QC,Headphones
+1680,149,2024-06-20,iPhone 16,Smartphone
+1681,32,29/04/2025,Dell UltraSharp,Monitor
+1682,147,11/05/2025,Galaxy S25,Smartphone
+1683,68,2024-10-14,ThinkPad X1,Laptop
+1684,303,2024-06-03,ASUS ProArt,Monitor
+1685,249,2024-07-04,Logitech MX Keys,Keyboard
+1686,305,2024-06-06,Bose QC,Headphones
+1687,339,2025-03-26,NuPhy Air75,Keyboard
+1688,329,2024-09-27,Logitech MX Keys,Keyboard
+1689,244,2024-11-04,Bose QC,Headphones
+1690,195,03/02/2025,Bose QC,Headphones
+1691,148,2025-04-04,AirPods Pro,Headphones
+1692,273,2024-12-28,AirPods Pro,Headphones
+1693,139,30/09/2024,Logitech MX Keys,Keyboard
+1694,396,2024-09-04,NuPhy Air75,Keyboard
+1695,347,2024-07-03,Sony WH-1000XM6,Headphones
+1696,211,10/04/2024,LG UltraFine,Monitor
+1697,129,16/07/2024,iPhone 16,Smartphone
+1698,307,2024-05-04,NuPhy Air75,Keyboard
+1699,337,2024-07-08,Galaxy S25,Smartphone
+1700,328,2025-04-09,ThinkPad X1,Laptop
+1701,83,2024-03-16,ThinkPad X1,Laptop
+1702,133,2024-09-28,MacBook Air M3,Laptop
+1703,92,18/05/2025,Galaxy S25,Smartphone
+1704,227,22/09/2024,Galaxy S25,Smartphone
+1705,10,2025-05-24,MacBook Air M3,Laptop
+1706,341,03/02/2025,ThinkPad X1,Laptop
+1707,264,2025-05-17,Bose QC,Headphones
+1708,2,2025-01-28,NuPhy Air75,Keyboard
+1709,171,06/11/2024,AirPods Pro,Headphones
+1710,274,2024-12-14,Galaxy S25,Smartphone
+1711,91,2024-02-10,AirPods Pro,Headphones
+1712,323,02/01/2025,Bose QC,Headphones
+1713,19,2024-07-16,iPhone 16,Smartphone
+1714,33,2024-11-11,Bose QC,Headphones
+1715,19,2024-12-13,iPhone 16,Smartphone
+1716,109,2025-06-19,Bose QC,Headphones
+1717,380,26/08/2024,Galaxy S25,Smartphone
+1718,317,2024-02-16,ASUS Zenbook,Laptop
+1719,158,2024-04-09,Bose QC,Headphones
+1720,59,2025-05-24,Dell UltraSharp,Monitor
+1721,173,15/02/2025,Sony WH-1000XM6,Headphones
+1722,165,06/08/2024,Logitech MX Keys,Keyboard
+1723,141,2024-05-24,Logitech MX Keys,Keyboard
+1724,225,06/09/2024,Dell UltraSharp,Monitor
+1725,9,13/05/2025,Galaxy S25,Smartphone
+1726,214,02/05/2025,NuPhy Air75,Keyboard
+1727,211,2024-09-01,MacBook Air M3,Laptop
+1728,314,2024-03-31,ASUS ProArt,Monitor
+1729,286,29/08/2024,ASUS Zenbook,Laptop
+1730,390,2025-06-03,ASUS Zenbook,Laptop
+1731,28,2024-07-17,Galaxy S25,Smartphone
+1732,91,2024-06-12,ASUS ProArt,Monitor
+1733,108,2025-03-21,ThinkPad X1,Laptop
+1734,54,23/02/2024,LG UltraFine,Monitor
+1735,37,2024-08-28,NuPhy Air75,Keyboard
+1736,383,2024-11-29,ASUS Zenbook,Laptop
+1737,378,2025-02-26,ASUS Zenbook,Laptop
+1738,28,22/03/2025,MacBook Air M3,Laptop
+1739,192,2024-05-19,Bose QC,Headphones
+1740,172,2024-05-10,iPhone 16,Smartphone
+1741,239,14/04/2025,AirPods Pro,Headphones
+1742,327,2024-06-23,Dell UltraSharp,Monitor
+1743,268,2025-05-15,ASUS Zenbook,Laptop
+1744,374,2025-03-14,NuPhy Air75,Keyboard
+1745,303,2024-06-01,Dell UltraSharp,Monitor
+1746,241,2025-05-31,iPhone 16,Smartphone
+1747,254,2024-09-03,Galaxy S25,Smartphone
+1748,68,02/01/2025,ThinkPad X1,Laptop
+1749,343,2024-11-08,MacBook Air M3,Laptop
+1750,233,19/04/2025,Logitech MX Keys,Keyboard
+1751,321,2025-04-20,NuPhy Air75,Keyboard
+1752,354,06/12/2024,LG UltraFine,Monitor
+1753,351,2024-03-23,Dell UltraSharp,Monitor
+1754,27,2024-04-23,AirPods Pro,Headphones
+1755,90,2024-03-09,LG UltraFine,Monitor
+1756,277,2024-04-26,ASUS ProArt,Monitor
+1757,386,2024-08-18,Sony WH-1000XM6,Headphones
+1758,28,2024-03-05,Sony WH-1000XM6,Headphones
+1759,241,2024-10-26,Bose QC,Headphones
+1760,235,2024-03-30,Galaxy S25,Smartphone
+1761,85,2024-10-09,Galaxy S25,Smartphone
+1762,151,2025-03-02,ASUS ProArt,Monitor
+1763,228,22/01/2024,ThinkPad X1,Laptop
+1764,211,2024-12-17,ASUS ProArt,Monitor
+1765,235,07/11/2024,Dell UltraSharp,Monitor
+1766,117,2025-05-10,Sony WH-1000XM6,Headphones
+1767,181,2024-10-18,Bose QC,Headphones
+1768,94,2024-06-28,NuPhy Air75,Keyboard
+1769,122,2024-04-29,iPhone 16,Smartphone
+1770,190,2024-07-07,ASUS Zenbook,Laptop
+1771,76,2025-01-16,Bose QC,Headphones
+1772,13,2025-02-18,Bose QC,Headphones
+1773,3,2025-06-03,Sony WH-1000XM6,Headphones
+1774,290,2025-03-28,Sony WH-1000XM6,Headphones
+1775,348,29/04/2024,ThinkPad X1,Laptop
+1776,183,04/04/2024,Sony WH-1000XM6,Headphones
+1777,393,11/10/2024,ASUS Zenbook,Laptop
+1778,263,2025-02-07,ASUS Zenbook,Laptop
+1779,342,04/01/2025,AirPods Pro,Headphones
+1780,191,2024-01-13,ThinkPad X1,Laptop
+1781,111,2025-03-30,NuPhy Air75,Keyboard
+1782,373,2025-03-10,NuPhy Air75,Keyboard
+1783,74,2024-07-31,ThinkPad X1,Laptop
+1784,303,19/01/2025,Galaxy S25,Smartphone
+1785,90,2025-04-18,NuPhy Air75,Keyboard
+1786,196,2024-10-23,LG UltraFine,Monitor
+1787,253,19/04/2025,ASUS Zenbook,Laptop
+1788,154,2025-04-28,Galaxy S25,Smartphone
+1789,252,07/09/2024,iPhone 16,Smartphone
+1790,298,2025-05-07,Dell UltraSharp,Monitor
+1791,192,2025-06-08,NuPhy Air75,Keyboard
+1792,75,2024-11-23,Bose QC,Headphones
+1793,140,2025-01-04,AirPods Pro,Headphones
+1794,150,19/03/2024,LG UltraFine,Monitor
+1795,279,2024-11-26,Sony WH-1000XM6,Headphones
+1796,351,2025-01-06,Galaxy S25,Smartphone
+1797,71,2025-06-14,ThinkPad X1,Laptop
+1798,53,2024-08-11,MacBook Air M3,Laptop
+1799,214,16/04/2025,Galaxy S25,Smartphone
+1800,179,2024-11-15,NuPhy Air75,Keyboard
+1801,89,2024-11-07,iPhone 16,Smartphone
+1802,353,20/08/2024,ThinkPad X1,Laptop
+1803,354,24/04/2024,Galaxy S25,Smartphone
+1804,101,2024-04-20,iPhone 16,Smartphone
+1805,61,16/09/2024,iPhone 16,Smartphone
+1806,309,2024-07-29,Dell UltraSharp,Monitor
+1807,47,2024-05-29,NuPhy Air75,Keyboard
+1808,83,2025-05-27,Logitech MX Keys,Keyboard
+1809,51,15/01/2024,LG UltraFine,Monitor
+1810,387,05/01/2024,NuPhy Air75,Keyboard
+1811,188,2024-07-08,Bose QC,Headphones
+1812,218,07/08/2024,LG UltraFine,Monitor
+1813,239,22/04/2024,LG UltraFine,Monitor
+1814,43,01/12/2024,Bose QC,Headphones
+1815,116,2025-02-21,ThinkPad X1,Laptop
+1816,348,11/01/2025,MacBook Air M3,Laptop
+1817,225,2025-06-19,ASUS ProArt,Monitor
+1818,356,2024-04-14,NuPhy Air75,Keyboard
+1819,102,2024-12-12,ASUS Zenbook,Laptop
+1820,218,2025-05-26,ThinkPad X1,Laptop
+1821,388,2025-02-13,Sony WH-1000XM6,Headphones
+1822,262,2024-10-12,MacBook Air M3,Laptop
+1823,255,2024-08-24,ASUS ProArt,Monitor
+1824,256,2024-01-28,MacBook Air M3,Laptop
+1825,319,08/04/2024,Logitech MX Keys,Keyboard
+1826,104,2024-10-27,ASUS ProArt,Monitor
+1827,277,19/01/2024,Logitech MX Keys,Keyboard
+1828,231,2024-11-18,AirPods Pro,Headphones
+1829,362,2024-06-17,Bose QC,Headphones
+1830,392,2024-04-22,Dell UltraSharp,Monitor
+1831,244,09/06/2024,LG UltraFine,Monitor
+1832,316,2024-12-27,Logitech MX Keys,Keyboard
+1833,66,2025-01-10,Sony WH-1000XM6,Headphones
+1834,50,2025-03-14,Sony WH-1000XM6,Headphones
+1835,127,2024-08-28,ASUS ProArt,Monitor
+1836,59,11/12/2024,MacBook Air M3,Laptop
+1837,291,11/06/2025,AirPods Pro,Headphones
+1838,163,2025-01-21,Dell UltraSharp,Monitor
+1839,354,2024-07-29,Sony WH-1000XM6,Headphones
+1840,315,2024-11-02,Sony WH-1000XM6,Headphones
+1841,148,28/09/2024,iPhone 16,Smartphone
+1842,368,2024-04-07,Dell UltraSharp,Monitor
+1843,219,2024-08-02,Sony WH-1000XM6,Headphones
+1844,222,2024-11-16,ASUS Zenbook,Laptop
+1845,344,2024-07-03,iPhone 16,Smartphone
+1846,110,2025-04-23,ThinkPad X1,Laptop
+1847,268,2024-07-24,Sony WH-1000XM6,Headphones
+1848,211,2024-11-22,Galaxy S25,Smartphone
+1849,331,2024-06-13,ThinkPad X1,Laptop
+1850,77,15/07/2024,iPhone 16,Smartphone
+1851,287,2025-03-22,AirPods Pro,Headphones
+1852,70,2024-01-30,ThinkPad X1,Laptop
+1853,330,2024-02-13,NuPhy Air75,Keyboard
+1854,309,2024-11-01,Galaxy S25,Smartphone
+1855,204,23/05/2024,ASUS Zenbook,Laptop
+1856,255,2024-04-02,ASUS Zenbook,Laptop
+1857,300,2025-02-03,Logitech MX Keys,Keyboard
+1858,74,19/04/2024,MacBook Air M3,Laptop
+1859,302,2024-02-27,Bose QC,Headphones
+1860,280,2025-03-09,Bose QC,Headphones
+1861,244,11/01/2025,ThinkPad X1,Laptop
+1862,354,2024-09-02,ThinkPad X1,Laptop
+1863,274,2024-08-30,Bose QC,Headphones
+1864,155,02/04/2024,Logitech MX Keys,Keyboard
+1865,324,2024-11-20,Logitech MX Keys,Keyboard
+1866,42,2025-05-18,Bose QC,Headphones
+1867,52,13/06/2024,NuPhy Air75,Keyboard
+1868,233,29/01/2024,Logitech MX Keys,Keyboard
+1869,2,2025-02-14,ASUS Zenbook,Laptop
+1870,81,2024-09-12,LG UltraFine,Monitor
+1871,164,2025-04-07,Bose QC,Headphones
+1872,145,2024-07-22,Galaxy S25,Smartphone
+1873,11,2024-01-24,LG UltraFine,Monitor
+1874,102,2024-09-25,NuPhy Air75,Keyboard
+1875,77,01/04/2024,Sony WH-1000XM6,Headphones
+1876,396,2025-04-09,ASUS ProArt,Monitor
+1877,137,2024-10-21,NuPhy Air75,Keyboard
+1878,145,12/07/2024,AirPods Pro,Headphones
+1879,135,2024-08-29,Dell UltraSharp,Monitor
+1880,44,11/01/2024,Bose QC,Headphones
+1881,366,2025-01-27,NuPhy Air75,Keyboard
+1882,286,2024-03-01,iPhone 16,Smartphone
+1883,3,2024-09-16,LG UltraFine,Monitor
+1884,68,12/02/2024,Dell UltraSharp,Monitor
+1885,240,2024-05-15,Galaxy S25,Smartphone
+1886,60,2024-11-16,iPhone 16,Smartphone
+1887,221,2024-10-16,ThinkPad X1,Laptop
+1888,224,2024-06-17,Sony WH-1000XM6,Headphones
+1889,28,12/07/2024,MacBook Air M3,Laptop
+1890,84,23/04/2025,AirPods Pro,Headphones
+1891,227,2024-12-31,NuPhy Air75,Keyboard
+1892,64,23/12/2024,Galaxy S25,Smartphone
+1893,289,2024-08-05,Dell UltraSharp,Monitor
+1894,214,2024-03-19,ASUS Zenbook,Laptop
+1895,146,2024-05-04,AirPods Pro,Headphones
+1896,79,2024-01-30,Galaxy S25,Smartphone
+1897,322,2024-10-02,Dell UltraSharp,Monitor
+1898,167,2024-05-12,ASUS Zenbook,Laptop
+1899,29,2024-03-13,LG UltraFine,Monitor
+1900,92,2024-09-02,Logitech MX Keys,Keyboard
+1901,199,2025-02-16,ThinkPad X1,Laptop
+1902,153,2025-05-17,Logitech MX Keys,Keyboard
+1903,184,2024-04-08,Sony WH-1000XM6,Headphones
+1904,138,2025-03-09,Galaxy S25,Smartphone
+1905,323,12/03/2025,Galaxy S25,Smartphone
+1906,332,2024-06-07,Bose QC,Headphones
+1907,240,2025-03-23,Galaxy S25,Smartphone
+1908,351,2024-11-03,ASUS Zenbook,Laptop
+1909,24,2025-06-09,Galaxy S25,Smartphone
+1910,182,17/09/2024,Dell UltraSharp,Monitor
+1911,92,05/07/2024,AirPods Pro,Headphones
+1912,301,2025-04-10,Logitech MX Keys,Keyboard
+1913,96,04/08/2024,MacBook Air M3,Laptop
+1914,223,2024-01-19,iPhone 16,Smartphone
+1915,355,2025-02-18,ASUS ProArt,Monitor
+1916,317,2025-01-04,NuPhy Air75,Keyboard
+1917,45,08/05/2024,MacBook Air M3,Laptop
+1918,14,2024-08-02,Bose QC,Headphones
+1919,45,2024-11-04,Logitech MX Keys,Keyboard
+1920,86,2024-06-05,NuPhy Air75,Keyboard
+1921,231,05/09/2024,ASUS Zenbook,Laptop
+1922,171,2024-01-09,Galaxy S25,Smartphone
+1923,378,2024-10-24,iPhone 16,Smartphone
+1924,119,03/03/2024,LG UltraFine,Monitor
+1925,138,03/03/2025,Bose QC,Headphones
+1926,358,22/03/2025,iPhone 16,Smartphone
+1927,225,25/08/2024,LG UltraFine,Monitor
+1928,68,2024-10-27,NuPhy Air75,Keyboard
+1929,83,2024-07-31,ThinkPad X1,Laptop
+1930,89,2024-07-23,MacBook Air M3,Laptop
+1931,156,2024-08-28,ASUS Zenbook,Laptop
+1932,183,2024-06-11,MacBook Air M3,Laptop
+1933,173,2025-03-16,Galaxy S25,Smartphone
+1934,133,2024-12-14,Logitech MX Keys,Keyboard
+1935,78,2025-06-11,Dell UltraSharp,Monitor
+1936,387,2024-04-23,Galaxy S25,Smartphone
+1937,260,2024-04-17,MacBook Air M3,Laptop
+1938,373,2024-10-26,NuPhy Air75,Keyboard
+1939,332,2025-01-07,Sony WH-1000XM6,Headphones
+1940,213,2024-01-07,ASUS Zenbook,Laptop
+1941,44,2024-09-29,Sony WH-1000XM6,Headphones
+1942,386,07/03/2025,Logitech MX Keys,Keyboard
+1943,235,2025-06-12,Logitech MX Keys,Keyboard
+1944,395,2024-01-11,NuPhy Air75,Keyboard
+1945,162,15/02/2025,Logitech MX Keys,Keyboard
+1946,295,2024-02-29,ASUS ProArt,Monitor
+1947,215,2025-02-15,ASUS ProArt,Monitor
+1948,5,2024-10-13,LG UltraFine,Monitor
+1949,330,2024-07-29,LG UltraFine,Monitor
+1950,333,18/02/2025,Logitech MX Keys,Keyboard
+1951,200,2024-05-09,LG UltraFine,Monitor
+1952,267,2024-12-14,Logitech MX Keys,Keyboard
+1953,124,2024-11-07,NuPhy Air75,Keyboard
+1954,133,03/06/2025,Sony WH-1000XM6,Headphones
+1955,153,2024-01-06,Bose QC,Headphones
+1956,180,2024-11-02,ThinkPad X1,Laptop
+1957,366,2025-01-21,LG UltraFine,Monitor
+1958,399,04/01/2025,Bose QC,Headphones
+1959,48,2024-03-04,AirPods Pro,Headphones
+1960,190,2025-06-22,AirPods Pro,Headphones
+1961,300,2025-05-25,ASUS ProArt,Monitor
+1962,84,27/05/2024,LG UltraFine,Monitor
+1963,356,2024-08-05,Bose QC,Headphones
+1964,61,22/02/2025,Galaxy S25,Smartphone
+1965,61,2025-01-15,ThinkPad X1,Laptop
+1966,74,2024-05-25,Logitech MX Keys,Keyboard
+1967,111,2024-07-06,NuPhy Air75,Keyboard
+1968,23,2025-03-03,Bose QC,Headphones
+1969,244,15/05/2024,Logitech MX Keys,Keyboard
+1970,77,2024-11-29,Galaxy S25,Smartphone
+1971,120,2025-02-08,Sony WH-1000XM6,Headphones
+1972,331,2024-03-31,MacBook Air M3,Laptop
+1973,330,2024-03-28,ASUS Zenbook,Laptop
+1974,385,2025-05-02,LG UltraFine,Monitor
+1975,10,08/10/2024,Logitech MX Keys,Keyboard
+1976,44,2024-11-24,AirPods Pro,Headphones
+1977,224,03/07/2024,AirPods Pro,Headphones
+1978,47,2024-04-27,Galaxy S25,Smartphone
+1979,394,2024-04-01,MacBook Air M3,Laptop
+1980,315,29/11/2024,MacBook Air M3,Laptop
+1981,164,2024-05-25,AirPods Pro,Headphones
+1982,104,2024-09-02,Logitech MX Keys,Keyboard
+1983,59,2024-10-02,iPhone 16,Smartphone
+1984,15,21/02/2025,ASUS ProArt,Monitor
+1985,127,2024-05-08,ThinkPad X1,Laptop
+1986,73,2025-01-17,LG UltraFine,Monitor
+1987,285,07/04/2025,iPhone 16,Smartphone
+1988,1,02/03/2024,Bose QC,Headphones
+1989,324,2024-08-05,Dell UltraSharp,Monitor
+1990,154,2024-04-01,AirPods Pro,Headphones
+1991,222,2024-08-03,Dell UltraSharp,Monitor
+1992,386,08/04/2025,ThinkPad X1,Laptop
+1993,236,2024-12-02,iPhone 16,Smartphone
+1994,3,10/01/2024,ASUS ProArt,Monitor
+1995,276,2024-03-24,Logitech MX Keys,Keyboard
+1996,344,31/03/2025,ASUS ProArt,Monitor
+1997,199,2024-06-30,Logitech MX Keys,Keyboard
+1998,190,16/07/2024,Bose QC,Headphones
+1999,99,2024-04-02,Dell UltraSharp,Monitor
+2000,253,06/01/2025,iPhone 16,Smartphone
+2001,101,2025-02-09,Galaxy S25,Smartphone
+2002,283,2024-07-17,ASUS ProArt,Monitor
+2003,34,11/05/2024,NuPhy Air75,Keyboard
+2004,268,2024-10-07,ASUS Zenbook,Laptop
+2005,349,2025-04-09,iPhone 16,Smartphone
+2006,222,20/02/2025,ThinkPad X1,Laptop
+2007,265,14/02/2024,NuPhy Air75,Keyboard
+2008,162,06/01/2024,AirPods Pro,Headphones
+2009,378,2024-08-19,NuPhy Air75,Keyboard
+2010,85,03/12/2024,ThinkPad X1,Laptop
+2011,222,2024-01-25,Dell UltraSharp,Monitor
+2012,56,2025-04-29,ASUS Zenbook,Laptop
+2013,38,25/03/2025,Logitech MX Keys,Keyboard
+2014,32,2024-02-04,AirPods Pro,Headphones
+2015,32,2025-03-28,iPhone 16,Smartphone
+2016,347,27/02/2024,LG UltraFine,Monitor
+2017,317,2025-02-24,ASUS Zenbook,Laptop
+2018,197,2025-04-20,Logitech MX Keys,Keyboard
+2019,334,2024-01-27,Bose QC,Headphones
+2020,7,2024-03-10,Dell UltraSharp,Monitor
+2021,327,2025-06-05,ThinkPad X1,Laptop
+2022,125,20/05/2024,Logitech MX Keys,Keyboard
+2023,263,2025-01-01,ThinkPad X1,Laptop
+2024,241,2024-11-12,Dell UltraSharp,Monitor
+2025,30,2024-08-31,LG UltraFine,Monitor
+2026,177,2024-07-19,ASUS Zenbook,Laptop
+2027,97,2025-05-02,NuPhy Air75,Keyboard
+2028,316,2024-11-02,AirPods Pro,Headphones
+2029,113,04/01/2024,ASUS ProArt,Monitor
+2030,247,2024-12-05,Logitech MX Keys,Keyboard
+2031,186,2024-01-11,Galaxy S25,Smartphone
+2032,226,2024-07-18,ASUS ProArt,Monitor
+2033,102,21/07/2024,ThinkPad X1,Laptop
+2034,284,08/09/2024,MacBook Air M3,Laptop
+2035,11,2024-05-20,AirPods Pro,Headphones
+2036,157,2025-04-12,ASUS Zenbook,Laptop
+2037,365,07/03/2024,Galaxy S25,Smartphone
+2038,273,2025-01-22,NuPhy Air75,Keyboard
+2039,391,12/07/2024,LG UltraFine,Monitor
+2040,323,2024-10-13,MacBook Air M3,Laptop
+2041,373,2024-03-24,Logitech MX Keys,Keyboard
+2042,261,2025-02-01,Logitech MX Keys,Keyboard
+2043,266,2025-04-20,MacBook Air M3,Laptop
+2044,243,2024-10-01,Dell UltraSharp,Monitor
+2045,107,2024-08-12,ASUS Zenbook,Laptop
+2046,218,21/01/2025,Dell UltraSharp,Monitor
+2047,69,2024-03-27,ThinkPad X1,Laptop
+2048,239,2025-06-08,Dell UltraSharp,Monitor
+2049,189,24/05/2025,Sony WH-1000XM6,Headphones
+2050,136,2024-03-18,Sony WH-1000XM6,Headphones
+2051,142,21/08/2024,Galaxy S25,Smartphone
+2052,171,2024-07-20,ASUS ProArt,Monitor
+2053,362,2024-05-21,Logitech MX Keys,Keyboard
+2054,395,2024-11-02,ThinkPad X1,Laptop
+2055,297,2024-01-13,Bose QC,Headphones
+2056,117,2024-08-20,NuPhy Air75,Keyboard
+2057,370,2025-04-17,Sony WH-1000XM6,Headphones
+2058,395,2025-03-03,ASUS Zenbook,Laptop
+2059,72,2024-05-11,ThinkPad X1,Laptop
+2060,174,2024-08-18,AirPods Pro,Headphones
+2061,167,2024-01-24,Dell UltraSharp,Monitor
+2062,291,04/02/2025,AirPods Pro,Headphones
+2063,97,2025-05-01,Galaxy S25,Smartphone
+2064,88,2024-04-16,ASUS ProArt,Monitor
+2065,96,2024-07-22,Galaxy S25,Smartphone
+2066,150,2025-06-20,Galaxy S25,Smartphone
+2067,168,24/02/2025,AirPods Pro,Headphones
+2068,245,2024-03-11,AirPods Pro,Headphones
+2069,159,2025-03-18,NuPhy Air75,Keyboard
+2070,301,2024-07-26,LG UltraFine,Monitor
+2071,74,2025-04-01,Galaxy S25,Smartphone
+2072,292,2025-05-17,Bose QC,Headphones
+2073,331,2025-04-12,Sony WH-1000XM6,Headphones
+2074,314,28/06/2024,AirPods Pro,Headphones
+2075,197,2024-07-06,NuPhy Air75,Keyboard
+2076,81,2024-10-07,ASUS ProArt,Monitor
+2077,253,2025-02-25,Logitech MX Keys,Keyboard
+2078,259,2024-11-29,AirPods Pro,Headphones
+2079,237,2024-01-28,Galaxy S25,Smartphone
+2080,176,2025-02-12,ASUS Zenbook,Laptop
+2081,168,2025-04-20,Bose QC,Headphones
+2082,72,2025-04-27,ThinkPad X1,Laptop
+2083,91,2024-10-28,Galaxy S25,Smartphone
+2084,347,2024-10-06,MacBook Air M3,Laptop
+2085,227,2024-02-18,ASUS ProArt,Monitor
+2086,354,11/11/2024,Bose QC,Headphones
+2087,393,2024-07-25,ASUS Zenbook,Laptop
+2088,216,2024-01-29,iPhone 16,Smartphone
+2089,50,20/06/2024,NuPhy Air75,Keyboard
+2090,166,13/07/2024,Dell UltraSharp,Monitor
+2091,119,2024-08-06,Galaxy S25,Smartphone
+2092,7,2025-02-02,ASUS Zenbook,Laptop
+2093,23,2024-03-09,ASUS Zenbook,Laptop
+2094,365,2024-06-24,ThinkPad X1,Laptop
+2095,171,2024-06-28,ASUS ProArt,Monitor
+2096,172,2024-01-19,Dell UltraSharp,Monitor
+2097,258,14/01/2024,ASUS Zenbook,Laptop
+2098,122,14/03/2025,Logitech MX Keys,Keyboard
+2099,256,30/10/2024,ASUS Zenbook,Laptop
+2100,372,2025-03-30,NuPhy Air75,Keyboard
+2101,267,2025-02-28,ASUS ProArt,Monitor
+2102,176,2024-09-05,ASUS Zenbook,Laptop
+2103,312,2025-01-25,LG UltraFine,Monitor
+2104,252,12/03/2024,ASUS Zenbook,Laptop
+2105,47,2024-06-26,Dell UltraSharp,Monitor
+2106,260,2024-03-21,AirPods Pro,Headphones
+2107,218,29/06/2024,Dell UltraSharp,Monitor
+2108,140,2025-05-07,Galaxy S25,Smartphone
+2109,242,2025-03-27,AirPods Pro,Headphones
+2110,11,2025-01-25,AirPods Pro,Headphones
+2111,284,2024-06-28,ThinkPad X1,Laptop
+2112,288,2025-05-07,Galaxy S25,Smartphone
+2113,98,2024-01-05,iPhone 16,Smartphone
+2114,208,2025-03-01,AirPods Pro,Headphones
+2115,329,2024-03-13,AirPods Pro,Headphones
+2116,290,2024-06-15,ASUS Zenbook,Laptop
+2117,326,12/01/2025,NuPhy Air75,Keyboard
+2118,125,2025-05-04,iPhone 16,Smartphone
+2119,134,11/04/2025,ASUS ProArt,Monitor
+2120,7,29/04/2024,Logitech MX Keys,Keyboard
+2121,362,2024-03-23,LG UltraFine,Monitor
+2122,130,2024-11-05,LG UltraFine,Monitor
+2123,376,2025-02-25,Logitech MX Keys,Keyboard
+2124,326,18/12/2024,MacBook Air M3,Laptop
+2125,4,21/06/2024,Bose QC,Headphones
+2126,336,2024-10-22,NuPhy Air75,Keyboard
+2127,102,2025-05-13,MacBook Air M3,Laptop
+2128,96,2024-07-24,iPhone 16,Smartphone
+2129,210,2025-03-27,ASUS ProArt,Monitor
+2130,151,28/03/2024,AirPods Pro,Headphones
+2131,245,2025-05-11,ASUS ProArt,Monitor
+2132,385,2024-01-08,ASUS ProArt,Monitor
+2133,268,2024-01-08,AirPods Pro,Headphones
+2134,243,2024-12-11,Dell UltraSharp,Monitor
+2135,123,2025-01-04,ASUS ProArt,Monitor
+2136,52,2024-01-04,Bose QC,Headphones
+2137,309,05/05/2024,LG UltraFine,Monitor
+2138,232,2025-05-01,LG UltraFine,Monitor
+2139,325,2025-01-03,iPhone 16,Smartphone
+2140,311,2025-05-11,AirPods Pro,Headphones
+2141,244,2024-04-12,NuPhy Air75,Keyboard
+2142,66,24/05/2025,Logitech MX Keys,Keyboard
+2143,87,2025-04-01,Galaxy S25,Smartphone
+2144,88,2024-04-01,Galaxy S25,Smartphone
+2145,197,2024-10-14,ASUS Zenbook,Laptop
+2146,274,2025-05-18,Galaxy S25,Smartphone
+2147,330,2024-12-17,AirPods Pro,Headphones
+2148,120,16/08/2024,ThinkPad X1,Laptop
+2149,380,2024-07-11,NuPhy Air75,Keyboard
+2150,195,02/01/2024,ThinkPad X1,Laptop
+2151,164,2025-01-08,Logitech MX Keys,Keyboard
+2152,55,2025-02-08,iPhone 16,Smartphone
+2153,113,2025-05-26,ASUS ProArt,Monitor
+2154,307,2024-11-23,ThinkPad X1,Laptop
+2155,324,08/08/2024,Bose QC,Headphones
+2156,79,2024-08-03,NuPhy Air75,Keyboard
+2157,250,2025-02-05,ThinkPad X1,Laptop
+2158,281,2025-02-05,Sony WH-1000XM6,Headphones
+2159,201,2024-03-14,LG UltraFine,Monitor
+2160,50,2024-05-14,Sony WH-1000XM6,Headphones
+2161,235,16/06/2024,Dell UltraSharp,Monitor
+2162,108,2024-08-11,Logitech MX Keys,Keyboard
+2163,372,2024-04-14,ASUS ProArt,Monitor
+2164,348,21/06/2024,iPhone 16,Smartphone
+2165,61,2025-06-11,ASUS ProArt,Monitor
+2166,126,04/02/2024,Galaxy S25,Smartphone
+2167,335,2025-01-19,Logitech MX Keys,Keyboard
+2168,333,2025-01-26,ThinkPad X1,Laptop
+2169,60,2024-03-25,Galaxy S25,Smartphone
+2170,12,2025-05-06,ThinkPad X1,Laptop
+2171,197,2025-05-10,ASUS ProArt,Monitor
+2172,167,2024-03-06,NuPhy Air75,Keyboard
+2173,359,2024-01-21,AirPods Pro,Headphones
+2174,33,2025-06-15,Dell UltraSharp,Monitor
+2175,338,2024-04-30,MacBook Air M3,Laptop
+2176,161,05/05/2024,iPhone 16,Smartphone
+2177,288,19/09/2024,Logitech MX Keys,Keyboard
+2178,187,2024-06-24,AirPods Pro,Headphones
+2179,24,15/06/2025,Logitech MX Keys,Keyboard
+2180,356,2024-11-16,LG UltraFine,Monitor
+2181,353,2024-04-11,ASUS ProArt,Monitor
+2182,154,2024-08-08,MacBook Air M3,Laptop
+2183,66,2025-03-08,Galaxy S25,Smartphone
+2184,234,2024-03-26,ThinkPad X1,Laptop
+2185,37,2024-10-02,ASUS ProArt,Monitor
+2186,215,2024-06-06,Sony WH-1000XM6,Headphones
+2187,40,2024-10-03,Galaxy S25,Smartphone
+2188,169,2024-04-01,Sony WH-1000XM6,Headphones
+2189,141,2024-01-11,Galaxy S25,Smartphone
+2190,64,2024-06-28,LG UltraFine,Monitor
+2191,271,2024-12-23,NuPhy Air75,Keyboard
+2192,25,2024-06-23,Sony WH-1000XM6,Headphones
+2193,245,10/05/2024,ThinkPad X1,Laptop
+2194,74,2025-01-22,Dell UltraSharp,Monitor
+2195,348,2025-03-04,NuPhy Air75,Keyboard
+2196,258,2024-10-20,ThinkPad X1,Laptop
+2197,326,2024-03-30,ThinkPad X1,Laptop
+2198,40,02/09/2024,Galaxy S25,Smartphone
+2199,6,2025-03-10,ASUS ProArt,Monitor
+2200,264,07/05/2024,AirPods Pro,Headphones
+2201,360,2024-12-19,ASUS Zenbook,Laptop
+2202,311,2025-04-04,MacBook Air M3,Laptop
+2203,90,2024-03-17,Sony WH-1000XM6,Headphones
+2204,254,2025-01-23,MacBook Air M3,Laptop
+2205,149,02/11/2024,Bose QC,Headphones
+2206,112,2024-11-08,ASUS ProArt,Monitor
+2207,30,2024-12-30,iPhone 16,Smartphone
+2208,3,24/12/2024,NuPhy Air75,Keyboard
+2209,252,2024-07-21,Galaxy S25,Smartphone
+2210,250,2024-01-08,MacBook Air M3,Laptop
+2211,192,2024-11-02,Sony WH-1000XM6,Headphones
+2212,225,25/03/2025,MacBook Air M3,Laptop
+2213,364,22/07/2024,Galaxy S25,Smartphone
+2214,381,05/12/2024,iPhone 16,Smartphone
+2215,61,2025-03-07,Bose QC,Headphones
+2216,385,2025-02-13,LG UltraFine,Monitor
+2217,57,20/04/2024,Logitech MX Keys,Keyboard
+2218,393,2024-08-30,iPhone 16,Smartphone
+2219,223,06/05/2025,ThinkPad X1,Laptop
+2220,317,2024-06-05,NuPhy Air75,Keyboard
+2221,359,2024-09-10,ASUS ProArt,Monitor
+2222,97,01/06/2024,ASUS Zenbook,Laptop
+2223,75,2025-03-12,iPhone 16,Smartphone
+2224,209,2025-06-21,ThinkPad X1,Laptop
+2225,219,2025-05-05,iPhone 16,Smartphone
+2226,138,2025-01-07,ThinkPad X1,Laptop
+2227,25,05/07/2024,iPhone 16,Smartphone
+2228,147,2025-04-28,ThinkPad X1,Laptop
+2229,252,2025-01-07,Sony WH-1000XM6,Headphones
+2230,170,2025-01-04,NuPhy Air75,Keyboard
+2231,122,2024-10-09,ASUS Zenbook,Laptop
+2232,323,2024-05-03,iPhone 16,Smartphone
+2233,361,01/04/2025,Galaxy S25,Smartphone
+2234,372,30/04/2025,Logitech MX Keys,Keyboard
+2235,99,2025-03-04,LG UltraFine,Monitor
+2236,188,2025-04-04,ASUS ProArt,Monitor
+2237,215,2025-06-20,LG UltraFine,Monitor
+2238,149,16/02/2024,Dell UltraSharp,Monitor
+2239,254,09/06/2025,Galaxy S25,Smartphone
+2240,206,05/10/2024,ASUS Zenbook,Laptop
+2241,263,2025-04-11,LG UltraFine,Monitor
+2242,152,01/10/2024,LG UltraFine,Monitor
+2243,150,10/02/2024,ASUS ProArt,Monitor
+2244,27,2024-09-11,ASUS Zenbook,Laptop
+2245,324,12/01/2025,Sony WH-1000XM6,Headphones
+2246,370,2024-05-16,AirPods Pro,Headphones
+2247,183,2024-08-12,NuPhy Air75,Keyboard
+2248,370,26/01/2025,ASUS ProArt,Monitor
+2249,227,13/08/2024,Sony WH-1000XM6,Headphones
+2250,229,2024-08-25,NuPhy Air75,Keyboard
+2251,254,04/07/2024,Bose QC,Headphones
+2252,374,03/07/2024,ASUS ProArt,Monitor
+2253,352,11/07/2024,Galaxy S25,Smartphone
+2254,52,2025-06-23,MacBook Air M3,Laptop
+2255,197,2024-01-22,Galaxy S25,Smartphone
+2256,128,26/03/2024,ThinkPad X1,Laptop
+2257,55,12/12/2024,NuPhy Air75,Keyboard
+2258,84,2024-11-10,Sony WH-1000XM6,Headphones
+2259,322,2024-05-06,iPhone 16,Smartphone
+2260,262,01/03/2025,MacBook Air M3,Laptop
+2261,198,2024-05-30,Sony WH-1000XM6,Headphones
+2262,252,22/06/2024,Galaxy S25,Smartphone
+2263,40,2024-12-07,Galaxy S25,Smartphone
+2264,310,2024-06-03,MacBook Air M3,Laptop
+2265,77,2024-11-04,Dell UltraSharp,Monitor
+2266,256,2025-01-12,ThinkPad X1,Laptop
+2267,77,30/05/2024,Sony WH-1000XM6,Headphones
+2268,58,13/03/2025,NuPhy Air75,Keyboard
+2269,393,2025-01-29,Sony WH-1000XM6,Headphones
+2270,71,2024-09-08,AirPods Pro,Headphones
+2271,273,23/08/2024,AirPods Pro,Headphones
+2272,360,2024-03-30,ASUS Zenbook,Laptop
+2273,286,2025-04-30,MacBook Air M3,Laptop
+2274,399,2024-05-22,ThinkPad X1,Laptop
+2275,125,03/08/2024,ASUS Zenbook,Laptop
+2276,376,2024-01-27,NuPhy Air75,Keyboard
+2277,245,10/06/2024,iPhone 16,Smartphone
+2278,7,2025-03-02,MacBook Air M3,Laptop
+2279,241,2025-02-25,NuPhy Air75,Keyboard
+2280,57,2024-06-08,iPhone 16,Smartphone
+2281,6,2025-02-09,AirPods Pro,Headphones
+2282,293,2025-05-28,ThinkPad X1,Laptop
+2283,48,2025-06-18,AirPods Pro,Headphones
+2284,317,2024-02-27,ASUS Zenbook,Laptop
+2285,355,2025-04-24,Bose QC,Headphones
+2286,28,2025-01-15,ASUS ProArt,Monitor
+2287,186,09/12/2024,iPhone 16,Smartphone
+2288,109,2024-01-12,Logitech MX Keys,Keyboard
+2289,124,2024-10-02,Galaxy S25,Smartphone
+2290,24,19/02/2024,Sony WH-1000XM6,Headphones
+2291,204,2025-05-27,ASUS Zenbook,Laptop
+2292,360,2024-04-09,Sony WH-1000XM6,Headphones
+2293,13,2025-01-26,Bose QC,Headphones
+2294,78,2025-04-19,Galaxy S25,Smartphone
+2295,349,2024-05-24,Logitech MX Keys,Keyboard
+2296,230,14/05/2024,Sony WH-1000XM6,Headphones
+2297,365,31/01/2025,ASUS Zenbook,Laptop
+2298,291,2025-05-24,Galaxy S25,Smartphone
+2299,256,2024-04-06,Bose QC,Headphones
+2300,144,07/01/2025,Sony WH-1000XM6,Headphones
+2301,243,2024-09-19,Logitech MX Keys,Keyboard
+2302,292,2025-05-14,iPhone 16,Smartphone
+2303,226,2025-01-10,LG UltraFine,Monitor
+2304,350,2025-02-27,LG UltraFine,Monitor
+2305,380,2024-09-07,NuPhy Air75,Keyboard
+2306,149,2025-01-19,MacBook Air M3,Laptop
+2307,237,2024-04-05,Sony WH-1000XM6,Headphones
+2308,44,03/07/2024,NuPhy Air75,Keyboard
+2309,103,15/02/2025,Sony WH-1000XM6,Headphones
+2310,360,02/05/2025,Galaxy S25,Smartphone
+2311,75,2024-08-06,Sony WH-1000XM6,Headphones
+2312,186,16/03/2025,Bose QC,Headphones
+2313,139,15/09/2024,ASUS ProArt,Monitor
+2314,42,2024-11-01,NuPhy Air75,Keyboard
+2315,95,2024-02-25,Galaxy S25,Smartphone
+2316,102,2024-12-23,AirPods Pro,Headphones
+2317,182,2025-02-02,iPhone 16,Smartphone
+2318,371,2024-05-28,Sony WH-1000XM6,Headphones
+2319,78,2025-04-14,MacBook Air M3,Laptop
+2320,267,2024-01-04,Bose QC,Headphones
+2321,19,2024-08-11,NuPhy Air75,Keyboard
+2322,308,2025-01-21,ASUS Zenbook,Laptop
+2323,190,2025-01-07,iPhone 16,Smartphone
+2324,333,2025-04-11,AirPods Pro,Headphones
+2325,268,2024-12-09,Galaxy S25,Smartphone
+2326,284,2024-06-15,LG UltraFine,Monitor
+2327,360,2024-04-11,Galaxy S25,Smartphone
+2328,54,2025-05-23,NuPhy Air75,Keyboard
+2329,258,03/02/2024,ASUS ProArt,Monitor
+2330,283,25/01/2025,Galaxy S25,Smartphone
+2331,238,2025-02-26,ASUS ProArt,Monitor
+2332,115,03/06/2025,ThinkPad X1,Laptop
+2333,345,2024-09-04,iPhone 16,Smartphone
+2334,79,2025-01-18,LG UltraFine,Monitor
+2335,293,2025-03-16,ASUS Zenbook,Laptop
+2336,296,2025-03-15,MacBook Air M3,Laptop
+2337,163,2025-06-13,MacBook Air M3,Laptop
+2338,324,2025-02-05,Logitech MX Keys,Keyboard
+2339,166,27/07/2024,Galaxy S25,Smartphone
+2340,15,2024-03-21,Dell UltraSharp,Monitor
+2341,325,01/01/2025,MacBook Air M3,Laptop
+2342,275,2024-09-08,NuPhy Air75,Keyboard
+2343,141,2024-03-25,MacBook Air M3,Laptop
+2344,57,15/04/2025,Dell UltraSharp,Monitor
+2345,48,2024-03-20,Bose QC,Headphones
+2346,52,17/05/2025,Logitech MX Keys,Keyboard
+2347,352,2025-03-05,AirPods Pro,Headphones
+2348,93,2024-11-01,iPhone 16,Smartphone
+2349,176,2024-12-21,Bose QC,Headphones
+2350,268,17/09/2024,Galaxy S25,Smartphone
+2351,111,2025-01-08,Galaxy S25,Smartphone
+2352,43,09/05/2024,ThinkPad X1,Laptop
+2353,363,2024-10-28,Bose QC,Headphones
+2354,99,13/09/2024,MacBook Air M3,Laptop
+2355,53,2024-11-15,MacBook Air M3,Laptop
+2356,229,2025-03-09,Dell UltraSharp,Monitor
+2357,220,2024-07-23,Dell UltraSharp,Monitor
+2358,86,04/02/2024,LG UltraFine,Monitor
+2359,204,31/01/2024,Galaxy S25,Smartphone
+2360,126,2024-03-15,ASUS Zenbook,Laptop
+2361,5,22/11/2024,NuPhy Air75,Keyboard
+2362,120,08/03/2024,AirPods Pro,Headphones
+2363,288,2024-10-11,NuPhy Air75,Keyboard
+2364,350,2025-03-21,Sony WH-1000XM6,Headphones
+2365,256,2024-02-17,ThinkPad X1,Laptop
+2366,303,2025-01-27,ASUS Zenbook,Laptop
+2367,237,2024-10-18,MacBook Air M3,Laptop
+2368,173,2024-01-17,Galaxy S25,Smartphone
+2369,141,2024-11-20,Logitech MX Keys,Keyboard
+2370,314,18/02/2024,AirPods Pro,Headphones
+2371,192,15/04/2024,iPhone 16,Smartphone
+2372,166,22/03/2025,ASUS Zenbook,Laptop
+2373,353,2024-02-23,ThinkPad X1,Laptop
+2374,39,2024-09-27,Sony WH-1000XM6,Headphones
+2375,358,2024-06-23,MacBook Air M3,Laptop
+2376,386,2025-02-27,ASUS ProArt,Monitor
+2377,296,2025-05-04,ASUS ProArt,Monitor
+2378,48,27/09/2024,Logitech MX Keys,Keyboard
+2379,338,29/07/2024,NuPhy Air75,Keyboard
+2380,7,2024-08-09,Bose QC,Headphones
+2381,107,2025-06-24,LG UltraFine,Monitor
+2382,336,06/06/2024,LG UltraFine,Monitor
+2383,232,2025-06-09,ASUS Zenbook,Laptop
+2384,85,2024-11-10,Dell UltraSharp,Monitor
+2385,124,17/01/2024,Bose QC,Headphones
+2386,181,2024-09-28,Galaxy S25,Smartphone
+2387,78,2025-02-10,LG UltraFine,Monitor
+2388,190,2024-04-10,iPhone 16,Smartphone
+2389,151,12/07/2024,AirPods Pro,Headphones
+2390,56,21/02/2024,ASUS ProArt,Monitor
+2391,19,29/09/2024,ASUS Zenbook,Laptop
+2392,201,06/02/2025,Galaxy S25,Smartphone
+2393,106,24/06/2024,Logitech MX Keys,Keyboard
+2394,376,04/01/2024,Galaxy S25,Smartphone
+2395,353,2024-09-01,MacBook Air M3,Laptop
+2396,234,2024-05-25,iPhone 16,Smartphone
+2397,136,2024-03-19,MacBook Air M3,Laptop
+2398,243,2024-01-02,Bose QC,Headphones
+2399,291,2024-10-24,ASUS Zenbook,Laptop
+2400,52,2024-11-07,Logitech MX Keys,Keyboard
+2401,340,2025-05-13,ThinkPad X1,Laptop
+2402,364,2024-12-07,LG UltraFine,Monitor
+2403,58,2024-10-03,ASUS ProArt,Monitor
+2404,113,2024-05-25,Sony WH-1000XM6,Headphones
+2405,106,2024-04-01,ASUS Zenbook,Laptop
+2406,321,05/04/2025,LG UltraFine,Monitor
+2407,201,2025-03-03,ThinkPad X1,Laptop
+2408,314,2024-05-05,AirPods Pro,Headphones
+2409,57,2024-01-09,Bose QC,Headphones
+2410,320,2024-06-15,ThinkPad X1,Laptop
+2411,233,11/02/2024,ASUS Zenbook,Laptop
+2412,157,2024-01-06,AirPods Pro,Headphones
+2413,71,2024-12-24,ThinkPad X1,Laptop
+2414,45,2024-10-04,MacBook Air M3,Laptop
+2415,149,2024-08-12,iPhone 16,Smartphone
+2416,205,2024-04-10,ThinkPad X1,Laptop
+2417,348,2024-11-26,Logitech MX Keys,Keyboard
+2418,70,02/03/2025,LG UltraFine,Monitor
+2419,280,2024-07-06,AirPods Pro,Headphones
+2420,270,2025-03-28,NuPhy Air75,Keyboard
+2421,182,2025-03-13,Bose QC,Headphones
+2422,393,2025-03-07,Galaxy S25,Smartphone
+2423,298,08/06/2025,Sony WH-1000XM6,Headphones
+2424,28,2025-02-06,MacBook Air M3,Laptop
+2425,28,27/03/2024,iPhone 16,Smartphone
+2426,305,2024-04-09,ThinkPad X1,Laptop
+2427,380,2025-06-07,NuPhy Air75,Keyboard
+2428,288,22/05/2025,MacBook Air M3,Laptop
+2429,322,2024-11-14,NuPhy Air75,Keyboard
+2430,320,24/07/2024,Galaxy S25,Smartphone
+2431,127,2024-07-28,Galaxy S25,Smartphone
+2432,29,2024-05-04,ThinkPad X1,Laptop
+2433,314,2025-03-25,ASUS ProArt,Monitor
+2434,73,2024-09-03,MacBook Air M3,Laptop
+2435,246,2024-10-23,ThinkPad X1,Laptop
+2436,342,2024-10-08,AirPods Pro,Headphones
+2437,218,31/05/2024,iPhone 16,Smartphone
+2438,298,2024-11-06,iPhone 16,Smartphone
+2439,182,2024-05-22,Bose QC,Headphones
+2440,184,27/05/2025,LG UltraFine,Monitor
+2441,263,2024-03-05,MacBook Air M3,Laptop
+2442,236,2024-05-23,ThinkPad X1,Laptop
+2443,331,2025-05-10,AirPods Pro,Headphones
+2444,67,2024-11-27,Dell UltraSharp,Monitor
+2445,24,31/01/2024,NuPhy Air75,Keyboard
+2446,348,2025-05-02,Sony WH-1000XM6,Headphones
+2447,90,2025-01-28,Logitech MX Keys,Keyboard
+2448,59,08/02/2024,NuPhy Air75,Keyboard
+2449,165,2024-04-20,NuPhy Air75,Keyboard
+2450,101,2024-09-15,Bose QC,Headphones
+2451,223,2024-07-15,Galaxy S25,Smartphone
+2452,18,2024-05-23,iPhone 16,Smartphone
+2453,175,2024-07-08,ASUS ProArt,Monitor
+2454,98,2024-07-31,Dell UltraSharp,Monitor
+2455,35,2025-03-25,AirPods Pro,Headphones
+2456,66,13/06/2025,ThinkPad X1,Laptop
+2457,12,2024-08-17,ThinkPad X1,Laptop
+2458,81,2024-10-21,Galaxy S25,Smartphone
+2459,205,2024-02-28,LG UltraFine,Monitor
+2460,335,2024-01-31,iPhone 16,Smartphone
+2461,72,2024-07-28,LG UltraFine,Monitor
+2462,253,2024-03-15,Logitech MX Keys,Keyboard
+2463,37,2025-03-02,Dell UltraSharp,Monitor
+2464,67,04/10/2024,NuPhy Air75,Keyboard
+2465,333,2024-12-24,AirPods Pro,Headphones
+2466,29,2024-01-27,Logitech MX Keys,Keyboard
+2467,283,2025-05-08,iPhone 16,Smartphone
+2468,360,13/03/2025,LG UltraFine,Monitor
+2469,100,2024-12-17,AirPods Pro,Headphones
+2470,117,2025-02-26,NuPhy Air75,Keyboard
+2471,8,12/09/2024,iPhone 16,Smartphone
+2472,23,2024-11-17,Sony WH-1000XM6,Headphones
+2473,311,2025-02-11,Bose QC,Headphones
+2474,279,2024-07-29,Bose QC,Headphones
+2475,366,2024-11-05,Sony WH-1000XM6,Headphones
+2476,164,30/05/2025,Galaxy S25,Smartphone
+2477,41,2024-07-27,MacBook Air M3,Laptop
+2478,63,2025-01-16,NuPhy Air75,Keyboard
+2479,333,09/04/2025,Galaxy S25,Smartphone
+2480,302,2025-01-28,ThinkPad X1,Laptop
+2481,254,2024-01-20,AirPods Pro,Headphones
+2482,95,17/03/2025,LG UltraFine,Monitor
+2483,14,2024-12-10,ThinkPad X1,Laptop
+2484,372,2025-03-20,AirPods Pro,Headphones
+2485,284,2025-02-01,NuPhy Air75,Keyboard
+2486,218,15/06/2025,ThinkPad X1,Laptop
+2487,8,2024-10-14,Logitech MX Keys,Keyboard
+2488,173,2025-02-08,iPhone 16,Smartphone
+2489,64,2024-11-10,Dell UltraSharp,Monitor
+2490,237,18/01/2024,Bose QC,Headphones
+2491,327,11/08/2024,AirPods Pro,Headphones
+2492,33,27/03/2025,MacBook Air M3,Laptop
+2493,66,20/08/2024,ASUS ProArt,Monitor
+2494,59,2024-02-09,MacBook Air M3,Laptop
+2495,22,2024-08-21,iPhone 16,Smartphone
+2496,348,2024-12-27,LG UltraFine,Monitor
+2497,40,03/06/2025,Bose QC,Headphones
+2498,293,2025-01-15,ASUS ProArt,Monitor
+2499,13,2024-11-30,Dell UltraSharp,Monitor
+2500,241,28/10/2024,Dell UltraSharp,Monitor
+2501,303,2024-01-27,Galaxy S25,Smartphone
+2502,111,22/01/2025,Dell UltraSharp,Monitor
+2503,40,2024-08-17,Dell UltraSharp,Monitor
+2504,276,2024-05-04,LG UltraFine,Monitor
+2505,163,2024-10-02,ASUS Zenbook,Laptop
+2506,125,2025-01-05,ASUS Zenbook,Laptop
+2507,228,23/02/2025,Sony WH-1000XM6,Headphones
+2508,335,10/05/2025,Dell UltraSharp,Monitor
+2509,276,2024-09-07,Logitech MX Keys,Keyboard
+2510,147,15/12/2024,Sony WH-1000XM6,Headphones
+2511,295,2025-05-21,ASUS ProArt,Monitor
+2512,8,2024-06-19,Galaxy S25,Smartphone
+2513,65,04/02/2024,AirPods Pro,Headphones
+2514,264,2025-02-01,AirPods Pro,Headphones
+2515,365,2024-10-27,Galaxy S25,Smartphone
+2516,370,2024-02-16,Galaxy S25,Smartphone
+2517,323,2025-04-05,NuPhy Air75,Keyboard
+2518,376,2024-07-06,NuPhy Air75,Keyboard
+2519,78,2024-01-08,Dell UltraSharp,Monitor
+2520,165,2025-03-25,MacBook Air M3,Laptop
+2521,153,20/05/2025,Sony WH-1000XM6,Headphones
+2522,147,2024-11-26,AirPods Pro,Headphones
+2523,377,2024-08-03,AirPods Pro,Headphones
+2524,178,18/10/2024,MacBook Air M3,Laptop
+2525,87,2024-10-22,ThinkPad X1,Laptop
+2526,73,2024-04-08,ASUS Zenbook,Laptop
+2527,307,2024-02-10,LG UltraFine,Monitor
+2528,190,2024-07-27,ThinkPad X1,Laptop
+2529,233,2024-10-29,Galaxy S25,Smartphone
+2530,222,20/05/2025,ThinkPad X1,Laptop
+2531,182,2024-03-21,NuPhy Air75,Keyboard
+2532,260,2024-12-09,ThinkPad X1,Laptop
+2533,20,2025-03-19,Galaxy S25,Smartphone
+2534,286,2024-02-06,ASUS ProArt,Monitor
+2535,113,2024-07-19,ThinkPad X1,Laptop
+2536,145,2024-05-14,ASUS Zenbook,Laptop
+2537,2,2025-03-20,Galaxy S25,Smartphone
+2538,215,2024-09-26,Dell UltraSharp,Monitor
+2539,272,2024-07-03,ThinkPad X1,Laptop
+2540,323,2025-02-05,Dell UltraSharp,Monitor
+2541,58,2024-10-21,AirPods Pro,Headphones
+2542,91,2025-04-20,Sony WH-1000XM6,Headphones
+2543,397,2025-05-10,Logitech MX Keys,Keyboard
+2544,149,01/10/2024,LG UltraFine,Monitor
+2545,288,2024-11-26,ThinkPad X1,Laptop
+2546,205,23/09/2024,iPhone 16,Smartphone
+2547,158,03/04/2025,AirPods Pro,Headphones
+2548,400,2024-04-22,Dell UltraSharp,Monitor
+2549,370,2024-01-22,Logitech MX Keys,Keyboard
+2550,393,05/03/2024,ASUS ProArt,Monitor
+2551,81,09/02/2025,NuPhy Air75,Keyboard
+2552,212,2024-08-08,LG UltraFine,Monitor
+2553,387,2025-06-23,Galaxy S25,Smartphone
+2554,145,04/11/2024,iPhone 16,Smartphone
+2555,140,2024-05-06,Logitech MX Keys,Keyboard
+2556,40,2024-03-16,LG UltraFine,Monitor
+2557,8,2024-06-04,Galaxy S25,Smartphone
+2558,166,2025-03-11,LG UltraFine,Monitor
+2559,52,2024-09-27,ASUS ProArt,Monitor
+2560,114,20/02/2025,LG UltraFine,Monitor
+2561,196,2024-01-18,Bose QC,Headphones
+2562,232,2024-08-17,Dell UltraSharp,Monitor
+2563,190,03/05/2025,Dell UltraSharp,Monitor
+2564,49,2024-06-22,ASUS Zenbook,Laptop
+2565,73,2025-02-16,Dell UltraSharp,Monitor
+2566,31,2025-05-20,ThinkPad X1,Laptop
+2567,165,20/02/2025,iPhone 16,Smartphone
+2568,280,2025-05-26,Sony WH-1000XM6,Headphones
+2569,264,2024-03-24,Galaxy S25,Smartphone
+2570,83,16/06/2025,NuPhy Air75,Keyboard
+2571,218,2025-05-22,MacBook Air M3,Laptop
+2572,205,10/01/2024,ThinkPad X1,Laptop
+2573,315,2025-01-15,Dell UltraSharp,Monitor
+2574,315,2025-01-15,LG UltraFine,Monitor
+2575,383,2024-05-18,MacBook Air M3,Laptop
+2576,214,2024-07-02,MacBook Air M3,Laptop
+2577,360,2024-07-11,ASUS Zenbook,Laptop
+2578,32,24/04/2025,Dell UltraSharp,Monitor
+2579,177,15/01/2024,ASUS Zenbook,Laptop
+2580,189,2025-02-16,ThinkPad X1,Laptop
+2581,304,2024-06-05,Galaxy S25,Smartphone
+2582,65,2025-06-18,Dell UltraSharp,Monitor
+2583,378,29/04/2025,ASUS Zenbook,Laptop
+2584,315,30/05/2024,MacBook Air M3,Laptop
+2585,27,2024-05-20,LG UltraFine,Monitor
+2586,155,27/05/2025,Logitech MX Keys,Keyboard
+2587,362,2025-04-30,Sony WH-1000XM6,Headphones
+2588,310,2024-08-07,MacBook Air M3,Laptop
+2589,287,2025-03-28,Bose QC,Headphones
+2590,334,22/12/2024,MacBook Air M3,Laptop
+2591,373,2025-03-10,ASUS Zenbook,Laptop
+2592,192,2024-07-02,NuPhy Air75,Keyboard
+2593,3,13/11/2024,Sony WH-1000XM6,Headphones
+2594,311,2024-10-06,iPhone 16,Smartphone
+2595,357,2024-09-16,ThinkPad X1,Laptop
+2596,312,10/04/2025,Bose QC,Headphones
+2597,20,2025-01-13,iPhone 16,Smartphone
+2598,43,05/03/2025,Galaxy S25,Smartphone
+2599,50,2024-10-11,ASUS Zenbook,Laptop
+2600,364,2024-06-22,Dell UltraSharp,Monitor
+2601,214,03/03/2024,Galaxy S25,Smartphone
+2602,43,25/06/2024,Bose QC,Headphones
+2603,89,04/01/2024,ThinkPad X1,Laptop
+2604,291,2024-03-29,Dell UltraSharp,Monitor
+2605,374,2024-03-29,MacBook Air M3,Laptop
+2606,6,2024-08-10,ASUS ProArt,Monitor
+2607,349,2024-07-14,NuPhy Air75,Keyboard
+2608,362,20/10/2024,MacBook Air M3,Laptop
+2609,97,06/10/2024,ASUS Zenbook,Laptop
+2610,48,2025-05-16,Sony WH-1000XM6,Headphones
+2611,324,2024-06-23,iPhone 16,Smartphone
+2612,360,2025-03-20,Sony WH-1000XM6,Headphones
+2613,176,2025-05-30,LG UltraFine,Monitor
+2614,133,11/08/2024,Bose QC,Headphones
+2615,244,2024-05-23,Bose QC,Headphones
+2616,166,2024-04-17,ASUS ProArt,Monitor
+2617,244,2024-12-08,Sony WH-1000XM6,Headphones
+2618,84,23/04/2025,LG UltraFine,Monitor
+2619,375,2025-02-12,Bose QC,Headphones
+2620,248,14/02/2025,ThinkPad X1,Laptop
+2621,216,12/03/2025,Logitech MX Keys,Keyboard
+2622,84,2025-06-08,MacBook Air M3,Laptop
+2623,291,2024-05-22,MacBook Air M3,Laptop
+2624,159,2024-05-24,Logitech MX Keys,Keyboard
+2625,338,2024-05-31,ASUS Zenbook,Laptop
+2626,121,27/07/2024,AirPods Pro,Headphones
+2627,3,2025-05-03,MacBook Air M3,Laptop
+2628,242,2025-01-20,Bose QC,Headphones
+2629,66,2024-11-21,Logitech MX Keys,Keyboard
+2630,346,2025-03-10,Dell UltraSharp,Monitor
+2631,114,01/07/2024,Logitech MX Keys,Keyboard
+2632,313,2025-02-11,Galaxy S25,Smartphone
+2633,109,05/11/2024,AirPods Pro,Headphones
+2634,78,2024-10-18,ThinkPad X1,Laptop
+2635,216,2024-07-02,MacBook Air M3,Laptop
+2636,43,2024-12-20,ASUS ProArt,Monitor
+2637,83,2024-11-22,MacBook Air M3,Laptop
+2638,249,2025-02-15,AirPods Pro,Headphones
+2639,310,2025-04-06,LG UltraFine,Monitor
+2640,58,2024-07-02,AirPods Pro,Headphones
+2641,4,2024-12-11,NuPhy Air75,Keyboard
+2642,25,20/04/2025,ThinkPad X1,Laptop
+2643,26,2025-01-13,ThinkPad X1,Laptop
+2644,92,2024-10-27,Sony WH-1000XM6,Headphones
+2645,306,2024-04-24,Sony WH-1000XM6,Headphones
+2646,90,27/03/2024,LG UltraFine,Monitor
+2647,141,2024-12-19,Bose QC,Headphones
+2648,21,2024-03-19,Sony WH-1000XM6,Headphones
+2649,263,2024-03-21,Sony WH-1000XM6,Headphones
+2650,12,07/07/2024,NuPhy Air75,Keyboard
+2651,60,15/07/2024,Dell UltraSharp,Monitor
+2652,356,2024-02-20,Sony WH-1000XM6,Headphones
+2653,383,2024-07-09,ThinkPad X1,Laptop
+2654,348,18/10/2024,ThinkPad X1,Laptop
+2655,141,2024-09-30,Bose QC,Headphones
+2656,114,2024-08-18,iPhone 16,Smartphone
+2657,302,2025-03-06,ASUS ProArt,Monitor
+2658,176,2024-12-14,Sony WH-1000XM6,Headphones
+2659,108,2024-06-23,ASUS ProArt,Monitor
+2660,324,2025-05-13,LG UltraFine,Monitor
+2661,156,2024-10-25,Logitech MX Keys,Keyboard
+2662,320,2024-06-19,Dell UltraSharp,Monitor
+2663,285,2025-05-17,ASUS Zenbook,Laptop
+2664,50,09/02/2025,ASUS Zenbook,Laptop
+2665,82,2025-02-14,LG UltraFine,Monitor
+2666,164,06/01/2025,ASUS ProArt,Monitor
+2667,116,2025-02-17,Bose QC,Headphones
+2668,91,13/02/2025,ThinkPad X1,Laptop
+2669,350,2024-04-10,AirPods Pro,Headphones
+2670,97,30/01/2024,Dell UltraSharp,Monitor
+2671,307,2025-02-22,iPhone 16,Smartphone
+2672,351,03/04/2024,Sony WH-1000XM6,Headphones
+2673,83,2025-04-13,Sony WH-1000XM6,Headphones
+2674,166,15/05/2024,ThinkPad X1,Laptop
+2675,236,2024-09-07,ASUS ProArt,Monitor
+2676,257,2024-04-23,Logitech MX Keys,Keyboard
+2677,237,2024-03-12,iPhone 16,Smartphone
+2678,198,2024-03-13,Logitech MX Keys,Keyboard
+2679,367,2024-01-25,Bose QC,Headphones
+2680,372,2024-02-10,Sony WH-1000XM6,Headphones
+2681,64,2024-04-16,MacBook Air M3,Laptop
+2682,370,2024-06-22,Sony WH-1000XM6,Headphones
+2683,108,2024-09-27,Galaxy S25,Smartphone
+2684,386,07/09/2024,Logitech MX Keys,Keyboard
+2685,231,21/09/2024,Dell UltraSharp,Monitor
+2686,268,22/10/2024,iPhone 16,Smartphone
+2687,158,2024-06-11,Dell UltraSharp,Monitor
+2688,80,2024-05-11,MacBook Air M3,Laptop
+2689,15,2024-08-04,Dell UltraSharp,Monitor
+2690,370,2025-06-04,NuPhy Air75,Keyboard
+2691,177,2024-06-08,Dell UltraSharp,Monitor
+2692,249,2024-06-22,LG UltraFine,Monitor
+2693,343,07/03/2024,Sony WH-1000XM6,Headphones
+2694,312,02/05/2024,ASUS ProArt,Monitor
+2695,383,2025-06-20,ASUS Zenbook,Laptop
+2696,321,2024-04-11,Sony WH-1000XM6,Headphones
+2697,29,2025-04-02,Dell UltraSharp,Monitor
+2698,117,12/04/2025,MacBook Air M3,Laptop
+2699,47,2024-07-13,NuPhy Air75,Keyboard
+2700,32,31/07/2024,ASUS Zenbook,Laptop
+2701,51,2024-02-22,Sony WH-1000XM6,Headphones
+2702,227,26/03/2024,Bose QC,Headphones
+2703,154,2024-01-10,Dell UltraSharp,Monitor
+2704,302,12/04/2025,iPhone 16,Smartphone
+2705,324,2024-06-29,Sony WH-1000XM6,Headphones
+2706,273,11/09/2024,Sony WH-1000XM6,Headphones
+2707,58,05/07/2024,Bose QC,Headphones
+2708,254,16/06/2024,MacBook Air M3,Laptop
+2709,227,2024-12-16,ASUS ProArt,Monitor
+2710,391,2024-08-25,ASUS Zenbook,Laptop
+2711,53,03/11/2024,Dell UltraSharp,Monitor
+2712,99,09/02/2025,Logitech MX Keys,Keyboard
+2713,265,2025-04-30,ASUS ProArt,Monitor
+2714,135,2025-04-28,ThinkPad X1,Laptop
+2715,231,2024-11-11,AirPods Pro,Headphones
+2716,29,2025-02-22,Sony WH-1000XM6,Headphones
+2717,10,2024-07-26,ASUS Zenbook,Laptop
+2718,165,2025-03-13,Logitech MX Keys,Keyboard
+2719,317,2025-05-30,Bose QC,Headphones
+2720,167,2025-05-06,NuPhy Air75,Keyboard
+2721,353,13/05/2025,ASUS Zenbook,Laptop
+2722,52,2024-02-27,ASUS ProArt,Monitor
+2723,57,2025-04-28,MacBook Air M3,Laptop
+2724,78,02/11/2024,Dell UltraSharp,Monitor
+2725,294,2024-09-23,LG UltraFine,Monitor
+2726,396,2024-03-10,Logitech MX Keys,Keyboard
+2727,383,2024-08-07,MacBook Air M3,Laptop
+2728,102,2024-09-22,ThinkPad X1,Laptop
+2729,329,2025-02-24,AirPods Pro,Headphones
+2730,263,2025-01-17,iPhone 16,Smartphone
+2731,276,2025-05-18,ThinkPad X1,Laptop
+2732,286,25/04/2024,LG UltraFine,Monitor
+2733,313,14/07/2024,Logitech MX Keys,Keyboard
+2734,232,2024-06-04,ASUS ProArt,Monitor
+2735,233,2025-06-24,Logitech MX Keys,Keyboard
+2736,206,2024-10-27,iPhone 16,Smartphone
+2737,166,13/03/2025,MacBook Air M3,Laptop
+2738,335,2024-07-24,Logitech MX Keys,Keyboard
+2739,97,2024-05-31,ASUS Zenbook,Laptop
+2740,400,2024-05-10,LG UltraFine,Monitor
+2741,337,2024-08-01,ASUS Zenbook,Laptop
+2742,112,29/12/2024,iPhone 16,Smartphone
+2743,193,2024-01-27,Bose QC,Headphones
+2744,26,2025-04-02,Bose QC,Headphones
+2745,48,2024-06-28,LG UltraFine,Monitor
+2746,388,2024-08-02,Galaxy S25,Smartphone
+2747,213,2024-07-14,ASUS Zenbook,Laptop
+2748,131,2025-06-04,Galaxy S25,Smartphone
+2749,205,2024-04-12,Sony WH-1000XM6,Headphones
+2750,334,2024-11-03,ASUS Zenbook,Laptop
+2751,9,2024-10-08,NuPhy Air75,Keyboard
+2752,91,2024-01-10,MacBook Air M3,Laptop
+2753,32,2024-08-02,NuPhy Air75,Keyboard
+2754,215,2024-06-25,MacBook Air M3,Laptop
+2755,57,2024-06-15,iPhone 16,Smartphone
+2756,319,2024-11-24,iPhone 16,Smartphone
+2757,377,27/05/2024,AirPods Pro,Headphones
+2758,81,2024-04-12,iPhone 16,Smartphone
+2759,58,2025-05-02,Bose QC,Headphones
+2760,69,2024-01-01,ThinkPad X1,Laptop
+2761,166,2025-01-09,Dell UltraSharp,Monitor
+2762,65,12/08/2024,LG UltraFine,Monitor
+2763,381,2024-04-07,NuPhy Air75,Keyboard
+2764,116,2024-09-13,MacBook Air M3,Laptop
+2765,390,2024-05-14,Sony WH-1000XM6,Headphones
+2766,383,29/01/2025,ASUS ProArt,Monitor
+2767,74,04/02/2024,Logitech MX Keys,Keyboard
+2768,248,2024-12-18,ASUS Zenbook,Laptop
+2769,232,2024-08-07,Bose QC,Headphones
+2770,336,2025-06-10,Sony WH-1000XM6,Headphones
+2771,250,12/04/2025,ASUS ProArt,Monitor
+2772,33,2025-01-09,AirPods Pro,Headphones
+2773,117,13/04/2025,Galaxy S25,Smartphone
+2774,158,2025-04-08,AirPods Pro,Headphones
+2775,204,07/06/2025,ASUS Zenbook,Laptop
+2776,376,2024-12-28,LG UltraFine,Monitor
+2777,273,06/01/2025,LG UltraFine,Monitor
+2778,192,2024-06-11,Galaxy S25,Smartphone
+2779,277,10/03/2025,ASUS Zenbook,Laptop
+2780,200,2025-06-18,AirPods Pro,Headphones
+2781,1,2024-03-17,ThinkPad X1,Laptop
+2782,31,24/02/2025,MacBook Air M3,Laptop
+2783,82,2025-03-05,AirPods Pro,Headphones
+2784,116,2024-10-09,MacBook Air M3,Laptop
+2785,106,2025-03-30,MacBook Air M3,Laptop
+2786,267,14/11/2024,LG UltraFine,Monitor
+2787,339,2025-03-24,ThinkPad X1,Laptop
+2788,37,2024-12-15,ThinkPad X1,Laptop
+2789,321,2025-04-22,AirPods Pro,Headphones
+2790,116,19/06/2025,Galaxy S25,Smartphone
+2791,341,2025-05-21,NuPhy Air75,Keyboard
+2792,371,2024-10-09,ThinkPad X1,Laptop
+2793,43,2024-01-14,Galaxy S25,Smartphone
+2794,114,20/03/2025,ASUS ProArt,Monitor
+2795,311,2025-06-15,ASUS ProArt,Monitor
+2796,295,2024-04-07,Galaxy S25,Smartphone
+2797,202,2024-02-10,Sony WH-1000XM6,Headphones
+2798,205,2025-03-18,ASUS ProArt,Monitor
+2799,323,02/12/2024,Galaxy S25,Smartphone
+2800,130,2025-01-02,ASUS ProArt,Monitor
+2801,229,2024-02-18,Sony WH-1000XM6,Headphones
+2802,108,2024-11-25,NuPhy Air75,Keyboard
+2803,46,2024-12-07,Sony WH-1000XM6,Headphones
+2804,157,13/04/2024,NuPhy Air75,Keyboard
+2805,388,26/01/2025,ASUS Zenbook,Laptop
+2806,225,05/01/2025,Logitech MX Keys,Keyboard
+2807,98,2024-11-13,LG UltraFine,Monitor
+2808,204,18/03/2024,ASUS Zenbook,Laptop
+2809,75,2024-12-14,LG UltraFine,Monitor
+2810,377,2024-10-27,Dell UltraSharp,Monitor
+2811,21,08/09/2024,LG UltraFine,Monitor
+2812,115,2024-08-12,ASUS Zenbook,Laptop
+2813,7,2024-10-30,ASUS Zenbook,Laptop
+2814,213,15/07/2024,AirPods Pro,Headphones
+2815,383,2024-09-24,NuPhy Air75,Keyboard
+2816,190,2025-01-08,ASUS Zenbook,Laptop
+2817,360,2024-09-09,Logitech MX Keys,Keyboard
+2818,275,2024-11-17,Galaxy S25,Smartphone
+2819,239,2024-10-02,Dell UltraSharp,Monitor
+2820,303,2025-03-22,Galaxy S25,Smartphone
+2821,287,2024-02-28,Sony WH-1000XM6,Headphones
+2822,34,09/10/2024,Dell UltraSharp,Monitor
+2823,221,16/05/2024,AirPods Pro,Headphones
+2824,170,2024-08-26,Dell UltraSharp,Monitor
+2825,393,2024-11-18,iPhone 16,Smartphone
+2826,397,13/03/2024,Dell UltraSharp,Monitor
+2827,128,02/07/2024,MacBook Air M3,Laptop
+2828,46,2024-04-06,AirPods Pro,Headphones
+2829,196,2025-04-30,MacBook Air M3,Laptop
+2830,91,2025-03-16,ThinkPad X1,Laptop
+2831,117,2024-12-25,ASUS ProArt,Monitor
+2832,11,03/03/2024,LG UltraFine,Monitor
+2833,271,2024-01-13,iPhone 16,Smartphone
+2834,36,2024-06-25,ASUS Zenbook,Laptop
+2835,177,2024-04-09,ASUS ProArt,Monitor
+2836,226,30/06/2024,LG UltraFine,Monitor
+2837,276,2024-05-03,Logitech MX Keys,Keyboard
+2838,350,2024-07-03,Dell UltraSharp,Monitor
+2839,309,2024-06-07,Dell UltraSharp,Monitor
+2840,230,2024-04-29,ASUS ProArt,Monitor
+2841,123,2025-05-17,ASUS Zenbook,Laptop
+2842,338,11/04/2024,LG UltraFine,Monitor
+2843,388,2024-07-24,ThinkPad X1,Laptop
+2844,321,2025-03-12,AirPods Pro,Headphones
+2845,54,2024-11-25,LG UltraFine,Monitor
+2846,395,2024-02-26,LG UltraFine,Monitor
+2847,301,2024-06-26,ASUS ProArt,Monitor
+2848,156,2025-01-29,ASUS Zenbook,Laptop
+2849,261,2025-01-14,ASUS ProArt,Monitor
+2850,96,2024-08-14,NuPhy Air75,Keyboard
+2851,293,2024-01-16,iPhone 16,Smartphone
+2852,3,2024-09-03,ASUS ProArt,Monitor
+2853,117,15/01/2025,AirPods Pro,Headphones
+2854,217,2024-11-13,ASUS Zenbook,Laptop
+2855,354,2024-01-11,AirPods Pro,Headphones
+2856,130,2024-01-11,ASUS ProArt,Monitor
+2857,340,2024-08-16,Galaxy S25,Smartphone
+2858,94,2024-12-01,MacBook Air M3,Laptop
+2859,275,2024-10-20,ThinkPad X1,Laptop
+2860,104,2024-03-29,LG UltraFine,Monitor
+2861,241,05/05/2025,Galaxy S25,Smartphone
+2862,43,2024-03-10,ASUS Zenbook,Laptop
+2863,306,2024-02-12,ASUS ProArt,Monitor
+2864,372,2024-11-21,iPhone 16,Smartphone
+2865,90,24/12/2024,Bose QC,Headphones
+2866,79,25/10/2024,LG UltraFine,Monitor
+2867,337,2025-03-25,iPhone 16,Smartphone
+2868,286,2024-06-13,MacBook Air M3,Laptop
+2869,210,14/06/2025,LG UltraFine,Monitor
+2870,20,2024-05-26,Galaxy S25,Smartphone
+2871,289,2024-02-29,AirPods Pro,Headphones
+2872,289,2024-03-16,iPhone 16,Smartphone
+2873,145,2025-01-31,Bose QC,Headphones
+2874,177,2025-04-10,Bose QC,Headphones
+2875,115,2024-05-27,ThinkPad X1,Laptop
+2876,83,11/01/2025,NuPhy Air75,Keyboard
+2877,236,2025-02-24,NuPhy Air75,Keyboard
+2878,321,2024-12-27,ASUS Zenbook,Laptop
+2879,376,2025-04-08,Bose QC,Headphones
+2880,341,2025-02-12,MacBook Air M3,Laptop
+2881,292,2024-07-18,NuPhy Air75,Keyboard
+2882,192,2024-11-10,ASUS Zenbook,Laptop
+2883,154,26/02/2025,iPhone 16,Smartphone
+2884,265,2025-03-18,MacBook Air M3,Laptop
+2885,291,2024-06-25,ThinkPad X1,Laptop
+2886,295,2024-07-21,MacBook Air M3,Laptop
+2887,162,06/02/2024,ASUS ProArt,Monitor
+2888,28,2024-12-05,Galaxy S25,Smartphone
+2889,110,2024-11-10,Galaxy S25,Smartphone
+2890,244,12/12/2024,NuPhy Air75,Keyboard
+2891,78,16/06/2024,AirPods Pro,Headphones
+2892,288,2025-04-25,NuPhy Air75,Keyboard
+2893,340,30/05/2024,Bose QC,Headphones
+2894,195,2025-05-03,MacBook Air M3,Laptop
+2895,300,2024-07-05,Bose QC,Headphones
+2896,174,28/03/2024,Sony WH-1000XM6,Headphones
+2897,77,2024-04-23,Logitech MX Keys,Keyboard
+2898,365,2024-03-26,Sony WH-1000XM6,Headphones
+2899,87,08/01/2025,ThinkPad X1,Laptop
+2900,251,22/11/2024,MacBook Air M3,Laptop
+2901,230,19/03/2025,Sony WH-1000XM6,Headphones
+2902,171,2024-02-02,MacBook Air M3,Laptop
+2903,155,2025-01-24,ASUS Zenbook,Laptop
+2904,357,2025-01-19,Sony WH-1000XM6,Headphones
+2905,363,2024-12-16,MacBook Air M3,Laptop
+2906,251,15/10/2024,ThinkPad X1,Laptop
+2907,261,2024-04-26,iPhone 16,Smartphone
+2908,39,30/06/2024,Sony WH-1000XM6,Headphones
+2909,39,10/01/2024,NuPhy Air75,Keyboard
+2910,299,2025-04-16,ASUS ProArt,Monitor
+2911,29,2024-05-22,ASUS Zenbook,Laptop
+2912,368,2024-04-03,iPhone 16,Smartphone
+2913,368,2024-03-22,AirPods Pro,Headphones
+2914,363,2025-05-22,Dell UltraSharp,Monitor
+2915,227,08/07/2024,LG UltraFine,Monitor
+2916,74,12/07/2024,NuPhy Air75,Keyboard
+2917,165,2024-08-21,MacBook Air M3,Laptop
+2918,260,2024-10-19,ASUS Zenbook,Laptop
+2919,336,2024-09-14,ThinkPad X1,Laptop
+2920,177,2024-03-02,Dell UltraSharp,Monitor
+2921,382,2024-03-31,Sony WH-1000XM6,Headphones
+2922,292,2024-09-25,NuPhy Air75,Keyboard
+2923,256,2024-11-03,Logitech MX Keys,Keyboard
+2924,301,2024-06-23,iPhone 16,Smartphone
+2925,207,2025-04-19,Bose QC,Headphones
+2926,13,2024-05-22,Logitech MX Keys,Keyboard
+2927,188,2024-01-15,AirPods Pro,Headphones
+2928,304,07/07/2024,ASUS Zenbook,Laptop
+2929,173,2024-07-21,iPhone 16,Smartphone
+2930,117,2024-07-13,Bose QC,Headphones
+2931,250,2024-03-02,Sony WH-1000XM6,Headphones
+2932,312,23/10/2024,MacBook Air M3,Laptop
+2933,252,2024-01-14,ThinkPad X1,Laptop
+2934,314,04/05/2024,Dell UltraSharp,Monitor
+2935,190,29/04/2025,Galaxy S25,Smartphone
+2936,168,2024-08-27,Sony WH-1000XM6,Headphones
+2937,285,2024-12-14,Dell UltraSharp,Monitor
+2938,324,2024-08-22,NuPhy Air75,Keyboard
+2939,289,2025-04-26,iPhone 16,Smartphone
+2940,320,2024-11-25,Galaxy S25,Smartphone
+2941,231,02/02/2025,Logitech MX Keys,Keyboard
+2942,399,01/03/2024,Bose QC,Headphones
+2943,318,09/05/2025,LG UltraFine,Monitor
+2944,161,2024-07-23,Logitech MX Keys,Keyboard
+2945,152,2024-03-03,NuPhy Air75,Keyboard
+2946,128,2025-01-20,AirPods Pro,Headphones
+2947,105,27/05/2024,ThinkPad X1,Laptop
+2948,189,2025-04-21,Logitech MX Keys,Keyboard
+2949,305,2025-03-30,Logitech MX Keys,Keyboard
+2950,102,09/04/2025,ThinkPad X1,Laptop
+2951,27,2024-11-30,LG UltraFine,Monitor
+2952,322,2025-03-20,ASUS ProArt,Monitor
+2953,166,10/02/2024,LG UltraFine,Monitor
+2954,33,10/03/2024,MacBook Air M3,Laptop
+2955,387,2025-01-03,Sony WH-1000XM6,Headphones
+2956,206,2024-03-04,LG UltraFine,Monitor
+2957,107,04/04/2025,MacBook Air M3,Laptop
+2958,123,2024-02-27,ASUS ProArt,Monitor
+2959,22,2024-02-13,ASUS Zenbook,Laptop
+2960,166,2025-01-31,Logitech MX Keys,Keyboard
+2961,253,2024-01-25,ASUS ProArt,Monitor
+2962,103,06/02/2024,ASUS Zenbook,Laptop
+2963,298,2025-01-11,LG UltraFine,Monitor
+2964,275,2024-01-08,ASUS ProArt,Monitor
+2965,262,2025-02-01,MacBook Air M3,Laptop
+2966,101,2024-11-30,ThinkPad X1,Laptop
+2967,229,2025-06-08,Logitech MX Keys,Keyboard
+2968,55,2024-07-29,ASUS Zenbook,Laptop
+2969,304,2024-11-06,Sony WH-1000XM6,Headphones
+2970,112,2025-06-07,iPhone 16,Smartphone
+2971,106,2025-05-26,NuPhy Air75,Keyboard
+2972,252,2025-05-06,LG UltraFine,Monitor
+2973,316,2024-04-19,iPhone 16,Smartphone
+2974,1,2024-11-06,Bose QC,Headphones
+2975,28,2025-01-11,ASUS Zenbook,Laptop
+2976,144,03/03/2025,ASUS ProArt,Monitor
+2977,73,2024-09-26,Bose QC,Headphones
+2978,326,01/02/2024,Bose QC,Headphones
+2979,297,06/10/2024,ThinkPad X1,Laptop
+2980,111,2024-03-07,AirPods Pro,Headphones
+2981,239,2025-02-26,MacBook Air M3,Laptop
+2982,395,14/10/2024,NuPhy Air75,Keyboard
+2983,344,05/10/2024,ASUS Zenbook,Laptop
+2984,289,2025-03-21,LG UltraFine,Monitor
+2985,147,2025-01-07,Galaxy S25,Smartphone
+2986,192,2025-01-15,NuPhy Air75,Keyboard
+2987,90,2025-02-15,Sony WH-1000XM6,Headphones
+2988,345,2025-05-21,ASUS ProArt,Monitor
+2989,309,2024-09-16,MacBook Air M3,Laptop
+2990,386,2024-06-17,iPhone 16,Smartphone
+2991,277,2024-06-12,Logitech MX Keys,Keyboard
+2992,42,2025-03-05,Galaxy S25,Smartphone
+2993,295,2024-01-05,ThinkPad X1,Laptop
+2994,351,08/12/2024,Bose QC,Headphones
+2995,268,2025-02-06,ASUS Zenbook,Laptop
+2996,328,2025-04-09,MacBook Air M3,Laptop
+2997,259,20/04/2024,Bose QC,Headphones
+2998,387,2025-02-19,ThinkPad X1,Laptop
+2999,13,17/01/2024,iPhone 16,Smartphone
+3000,130,2025-04-08,Galaxy S25,Smartphone
+3001,358,2024-11-03,Sony WH-1000XM6,Headphones
+3002,326,2024-02-12,ASUS ProArt,Monitor
+3003,16,2024-09-18,NuPhy Air75,Keyboard
+3004,217,2024-12-25,ASUS ProArt,Monitor
+3005,389,29/03/2024,Bose QC,Headphones
+3006,233,2025-01-23,NuPhy Air75,Keyboard
+3007,166,2024-11-13,LG UltraFine,Monitor
+3008,49,11/01/2024,ASUS ProArt,Monitor
+3009,36,2025-05-29,MacBook Air M3,Laptop
+3010,130,2024-04-30,NuPhy Air75,Keyboard
+3011,84,2024-02-10,ThinkPad X1,Laptop
+3012,102,08/05/2025,Bose QC,Headphones
+3013,23,05/11/2024,MacBook Air M3,Laptop
+3014,118,2025-03-31,Logitech MX Keys,Keyboard
+3015,72,2024-05-15,NuPhy Air75,Keyboard
+3016,255,2025-01-10,Logitech MX Keys,Keyboard
+3017,326,2024-04-18,AirPods Pro,Headphones
+3018,35,07/03/2024,Galaxy S25,Smartphone
+3019,206,2025-06-03,ASUS Zenbook,Laptop
+3020,83,29/03/2024,Dell UltraSharp,Monitor
+3021,286,26/09/2024,Bose QC,Headphones
+3022,60,10/02/2024,ASUS Zenbook,Laptop
+3023,191,2024-03-02,LG UltraFine,Monitor
+3024,156,2024-05-20,Sony WH-1000XM6,Headphones
+3025,340,2025-05-01,Bose QC,Headphones
+3026,75,10/05/2024,LG UltraFine,Monitor
+3027,290,2024-06-17,ASUS Zenbook,Laptop
+3028,135,2025-02-20,iPhone 16,Smartphone
+3029,15,2024-07-16,ASUS ProArt,Monitor
+3030,384,2024-05-10,Bose QC,Headphones
+3031,124,2025-06-17,ThinkPad X1,Laptop
+3032,34,2024-03-27,NuPhy Air75,Keyboard
+3033,143,2025-02-06,ThinkPad X1,Laptop
+3034,275,2024-11-30,ThinkPad X1,Laptop
+3035,388,2024-05-20,Bose QC,Headphones
+3036,129,2024-10-01,ThinkPad X1,Laptop
+3037,166,02/09/2024,Dell UltraSharp,Monitor
+3038,266,25/02/2025,ThinkPad X1,Laptop
+3039,395,2024-10-29,ASUS Zenbook,Laptop
+3040,105,2025-04-18,Dell UltraSharp,Monitor
+3041,106,2024-12-11,MacBook Air M3,Laptop
+3042,201,10/05/2025,NuPhy Air75,Keyboard
+3043,75,17/09/2024,Dell UltraSharp,Monitor
+3044,2,2024-03-09,ASUS Zenbook,Laptop
+3045,282,2024-10-10,LG UltraFine,Monitor
+3046,322,16/05/2025,Dell UltraSharp,Monitor
+3047,72,2024-07-04,Galaxy S25,Smartphone
+3048,36,2024-10-11,Galaxy S25,Smartphone
+3049,105,2024-02-10,ASUS ProArt,Monitor
+3050,320,2024-10-10,ThinkPad X1,Laptop
+3051,283,28/12/2024,ASUS Zenbook,Laptop
+3052,88,2025-01-27,ASUS Zenbook,Laptop
+3053,293,2024-10-03,Logitech MX Keys,Keyboard
+3054,124,15/04/2025,Dell UltraSharp,Monitor
+3055,55,2024-01-04,ASUS Zenbook,Laptop
+3056,110,2024-08-25,Galaxy S25,Smartphone
+3057,77,2025-01-28,Dell UltraSharp,Monitor
+3058,345,2025-05-18,AirPods Pro,Headphones
+3059,256,2025-06-03,Dell UltraSharp,Monitor
+3060,74,2024-03-20,Dell UltraSharp,Monitor
+3061,107,2024-08-11,Sony WH-1000XM6,Headphones
+3062,195,2025-04-25,iPhone 16,Smartphone
+3063,366,2024-01-23,AirPods Pro,Headphones
+3064,224,01/04/2025,AirPods Pro,Headphones
+3065,188,23/09/2024,Bose QC,Headphones
+3066,19,25/01/2025,Sony WH-1000XM6,Headphones
+3067,316,21/02/2024,ThinkPad X1,Laptop
+3068,151,25/05/2024,AirPods Pro,Headphones
+3069,160,19/06/2024,LG UltraFine,Monitor
+3070,148,2025-04-26,AirPods Pro,Headphones
+3071,35,2024-04-13,ThinkPad X1,Laptop
+3072,284,12/01/2025,NuPhy Air75,Keyboard
+3073,5,2024-11-29,MacBook Air M3,Laptop
+3074,202,18/05/2024,MacBook Air M3,Laptop
+3075,312,2025-01-11,Dell UltraSharp,Monitor
+3076,364,22/04/2024,NuPhy Air75,Keyboard
+3077,194,19/05/2024,iPhone 16,Smartphone
+3078,282,2025-02-17,LG UltraFine,Monitor
+3079,311,18/02/2025,Logitech MX Keys,Keyboard
+3080,65,07/02/2024,ASUS Zenbook,Laptop
+3081,310,2025-02-26,AirPods Pro,Headphones
+3082,102,2024-01-17,ASUS Zenbook,Laptop
+3083,303,2024-05-23,ASUS ProArt,Monitor
+3084,117,2025-03-25,ThinkPad X1,Laptop
+3085,105,2025-04-19,MacBook Air M3,Laptop
+3086,152,2025-01-18,iPhone 16,Smartphone
+3087,307,2024-10-28,Sony WH-1000XM6,Headphones
+3088,35,26/12/2024,Sony WH-1000XM6,Headphones
+3089,52,2024-05-29,NuPhy Air75,Keyboard
+3090,323,17/06/2025,Sony WH-1000XM6,Headphones
+3091,319,2024-11-30,ThinkPad X1,Laptop
+3092,225,2025-05-14,AirPods Pro,Headphones
+3093,79,2025-01-21,Sony WH-1000XM6,Headphones
+3094,73,2024-07-20,Galaxy S25,Smartphone
+3095,23,2024-11-06,iPhone 16,Smartphone
+3096,214,2024-06-04,AirPods Pro,Headphones
+3097,34,16/06/2024,iPhone 16,Smartphone
+3098,240,2024-06-18,ASUS ProArt,Monitor
+3099,316,2025-01-16,Bose QC,Headphones
+3100,324,30/11/2024,LG UltraFine,Monitor
+3101,305,2024-09-08,ASUS Zenbook,Laptop
+3102,261,2024-11-03,Bose QC,Headphones
+3103,132,2024-04-19,MacBook Air M3,Laptop
+3104,238,2024-06-05,Galaxy S25,Smartphone
+3105,215,05/12/2024,ThinkPad X1,Laptop
+3106,397,2024-11-17,iPhone 16,Smartphone
+3107,243,2024-02-01,Sony WH-1000XM6,Headphones
+3108,252,09/02/2025,Dell UltraSharp,Monitor
+3109,125,17/06/2024,Sony WH-1000XM6,Headphones
+3110,52,2024-03-25,Galaxy S25,Smartphone
+3111,253,2024-04-04,Logitech MX Keys,Keyboard
+3112,242,30/06/2024,iPhone 16,Smartphone
+3113,342,30/03/2024,iPhone 16,Smartphone
+3114,299,2024-03-25,iPhone 16,Smartphone
+3115,201,17/05/2025,Galaxy S25,Smartphone
+3116,314,18/10/2024,MacBook Air M3,Laptop
+3117,330,2025-06-11,Galaxy S25,Smartphone
+3118,202,12/12/2024,ASUS ProArt,Monitor
+3119,261,2024-11-09,ThinkPad X1,Laptop
+3120,159,30/11/2024,ASUS Zenbook,Laptop
+3121,41,2024-03-01,Dell UltraSharp,Monitor
+3122,77,2024-03-16,ThinkPad X1,Laptop
+3123,368,2025-05-08,AirPods Pro,Headphones
+3124,364,2024-08-02,Bose QC,Headphones
+3125,177,08/03/2024,iPhone 16,Smartphone
+3126,96,2025-05-24,Bose QC,Headphones
+3127,69,2024-11-30,NuPhy Air75,Keyboard
+3128,4,2024-06-17,ThinkPad X1,Laptop
+3129,22,2024-05-23,ASUS Zenbook,Laptop
+3130,370,03/07/2024,AirPods Pro,Headphones
+3131,365,2024-12-17,Logitech MX Keys,Keyboard
+3132,396,28/05/2025,ASUS Zenbook,Laptop
+3133,272,2025-02-04,LG UltraFine,Monitor
+3134,395,2024-02-10,Bose QC,Headphones
+3135,23,18/10/2024,Sony WH-1000XM6,Headphones
+3136,214,2025-04-19,Dell UltraSharp,Monitor
+3137,231,2024-09-28,ThinkPad X1,Laptop
+3138,203,2024-09-28,iPhone 16,Smartphone
+3139,204,03/01/2024,AirPods Pro,Headphones
+3140,9,2025-05-28,NuPhy Air75,Keyboard
+3141,255,2024-08-06,LG UltraFine,Monitor
+3142,200,2024-12-02,MacBook Air M3,Laptop
+3143,169,08/09/2024,Bose QC,Headphones
+3144,337,26/10/2024,ASUS ProArt,Monitor
+3145,374,16/06/2024,Sony WH-1000XM6,Headphones
+3146,40,2024-06-08,Galaxy S25,Smartphone
+3147,34,03/10/2024,MacBook Air M3,Laptop
+3148,262,2024-05-05,Bose QC,Headphones
+3149,48,2024-12-27,MacBook Air M3,Laptop
+3150,318,29/03/2024,Galaxy S25,Smartphone
+3151,246,2024-12-25,iPhone 16,Smartphone
+3152,263,16/02/2025,ASUS Zenbook,Laptop
+3153,382,2024-08-20,ASUS ProArt,Monitor
+3154,199,2024-11-25,ASUS ProArt,Monitor
+3155,97,2024-01-04,Dell UltraSharp,Monitor
+3156,213,2024-01-08,Sony WH-1000XM6,Headphones
+3157,304,2024-05-19,Bose QC,Headphones
+3158,320,2024-02-03,Logitech MX Keys,Keyboard
+3159,151,09/02/2024,Galaxy S25,Smartphone
+3160,195,2024-06-05,ThinkPad X1,Laptop
+3161,39,2025-05-25,ThinkPad X1,Laptop
+3162,168,08/07/2024,NuPhy Air75,Keyboard
+3163,186,2024-04-26,Galaxy S25,Smartphone
+3164,94,2024-08-05,Dell UltraSharp,Monitor
+3165,390,2024-03-22,Logitech MX Keys,Keyboard
+3166,283,2024-10-31,Galaxy S25,Smartphone
+3167,216,2024-04-05,ASUS ProArt,Monitor
+3168,49,2024-01-05,Galaxy S25,Smartphone
+3169,278,19/04/2024,ThinkPad X1,Laptop
+3170,172,2024-06-21,MacBook Air M3,Laptop
+3171,241,2024-08-11,NuPhy Air75,Keyboard
+3172,209,2024-01-06,ASUS ProArt,Monitor
+3173,281,2024-08-31,iPhone 16,Smartphone
+3174,271,26/10/2024,Sony WH-1000XM6,Headphones
+3175,138,2024-09-12,Dell UltraSharp,Monitor
+3176,332,2025-05-24,iPhone 16,Smartphone
+3177,354,11/05/2024,Dell UltraSharp,Monitor
+3178,68,2024-02-11,ASUS Zenbook,Laptop
+3179,69,2024-08-11,ThinkPad X1,Laptop
+3180,357,15/01/2024,AirPods Pro,Headphones
+3181,371,2024-05-06,Sony WH-1000XM6,Headphones
+3182,228,25/07/2024,ASUS ProArt,Monitor
+3183,251,2025-05-15,ThinkPad X1,Laptop
+3184,82,2024-03-03,Logitech MX Keys,Keyboard
+3185,105,2025-02-27,Galaxy S25,Smartphone
+3186,219,2024-01-15,Bose QC,Headphones
+3187,179,06/11/2024,ASUS ProArt,Monitor
+3188,200,2024-10-03,MacBook Air M3,Laptop
+3189,400,2024-08-28,ASUS ProArt,Monitor
+3190,57,2024-10-01,NuPhy Air75,Keyboard
+3191,338,2025-06-12,Logitech MX Keys,Keyboard
+3192,124,2024-10-16,ThinkPad X1,Laptop
+3193,322,23/05/2025,LG UltraFine,Monitor
+3194,291,2024-12-15,iPhone 16,Smartphone
+3195,129,05/10/2024,Dell UltraSharp,Monitor
+3196,50,2025-01-24,Bose QC,Headphones
+3197,173,2024-12-31,Bose QC,Headphones
+3198,221,17/01/2024,NuPhy Air75,Keyboard
+3199,211,2024-02-14,ASUS Zenbook,Laptop
+3200,349,27/03/2025,NuPhy Air75,Keyboard

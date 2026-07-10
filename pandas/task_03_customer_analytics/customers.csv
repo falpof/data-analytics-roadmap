@@ -1,0 +1,401 @@
+customer_id,customer_name,city,registration_date
+1,Maria Smith,Sharjah,2024-10-16
+2,Noah Ivanov,Dubai ,2023-09-08
+3,Tom Ali,Ras Al Khaimah,2024-11-23
+4,Ivan Smith,Abu Dhabi,2023-02-02
+5,Ivan Ali,Abu Dhabi,2023-08-27
+6,Sara Ivanov, Dubai,2025-01-03
+7,Liam Johnson,Dubai,2024-08-26
+8,Olivia Kim,Ras Al Khaimah,2025-02-16
+9,Liam Ivanov,Abu Dhabi,2023-12-15
+10,Lucas Smith,Dubai ,2025-02-20
+11,Maria Brown,Ajman,2024-01-25
+12,Liam Johnson,Dubai,2024-09-10
+13,Alex Ali,Dubai ,2025-01-17
+14,Tom Ali,Sharjah,2024-01-23
+15,Mia Ali,Abu Dhabi,2025-04-29
+16,Tom Smith,Abu Dhabi,2024-12-22
+17,Sophia Smith,Abu Dhabi,2025-03-02
+18,Daniel Brown,Fujairah,2023-04-14
+19,Mia Ivanov,Ajman,2024-10-12
+20,Emma Kim,Sharjah,2023-12-30
+21,Tom Ali,dubai,2024-12-19
+22,Noah Ivanov,Fujairah,2024-06-30
+23,Liam Kim,Al Ain,2024-01-24
+24,Lucas Johnson,Dubai,2023-08-13
+25,Anna Johnson,Ajman,2023-08-23
+26,Liam Smith,Abu Dhabi,2024-02-15
+27,Lucas Ivanov,Fujairah,2024-08-03
+28,Alex Ivanov,Sharjah,2024-02-10
+29,Noah Kim,Al Ain,2023-05-23
+30,Liam Kim,Ras Al Khaimah,2024-07-05
+31,Daniel Brown,Abu Dhabi,2024-08-20
+32,Kate Smith,Dubai,2023-05-22
+33,John Kim,dubai,2023-04-23
+34,Sara Ali,Dubai ,2025-03-22
+35,Daniel Ali,Fujairah,2024-01-30
+36,Liam Ali,Dubai,2024-06-25
+37,Maria Kim,Al Ain,2024-11-27
+38,Liam Johnson,Ajman,2025-02-07
+39,Sophia Lee,dubai,2023-04-25
+40,Ivan Kim,Sharjah,2024-04-09
+41,Olivia Ali,Dubai ,2024-05-27
+42,Sophia Johnson,Al Ain,2024-10-02
+43,Emma Ivanov,Ajman,2024-09-15
+44,Olivia Ali,Al Ain,2025-02-19
+45,Lucas Lee,Dubai,2023-01-01
+46,Mia Johnson,Sharjah,2023-04-25
+47,Anna Ivanov,Dubai ,2023-09-03
+48,Kate Johnson,Dubai ,2023-03-29
+49,John Ivanov,Fujairah,2025-02-17
+50,Olivia Brown,Al Ain,2024-07-16
+51,Sara Ivanov,Al Ain,2024-09-13
+52,Emma Kim,Sharjah,2025-02-12
+53,Mia Lee,Al Ain,2024-02-13
+54,Maria Ivanov,Abu Dhabi,2024-04-07
+55,Lucas Smith,Al Ain,2023-03-07
+56,Noah Smith,Dubai ,2023-08-24
+57,Anna Ivanov,Dubai ,2024-12-25
+58,Lucas Smith,Al Ain,2023-02-02
+59,Liam Kim,Fujairah,2023-09-01
+60,John Kim,Fujairah,2023-08-08
+61,Kate Johnson,Ras Al Khaimah,2023-09-06
+62,Maria Smith,Ras Al Khaimah,2023-07-14
+63,Sara Lee,Fujairah,2023-12-29
+64,Anna Kim,Dubai ,2025-01-16
+65,Daniel Kim,Ajman,2023-03-04
+66,Maria Ivanov,Abu Dhabi,2025-03-30
+67,Alex Ivanov,Ras Al Khaimah,2023-07-14
+68,Liam Lee,Abu Dhabi,2023-07-07
+69,Alex Johnson,Al Ain,2023-03-19
+70,Anna Kim,Al Ain,2023-04-11
+71,Tom Johnson,Abu Dhabi,2023-01-16
+72,Sara Lee,Fujairah,2023-06-20
+73,Daniel Smith,dubai,2023-08-07
+74,Ivan Lee,Sharjah,2024-01-24
+75,Alex Brown,Ras Al Khaimah,2025-03-13
+76,Kate Ivanov,Abu Dhabi,2024-12-14
+77,Emma Smith,Al Ain,2023-10-31
+78,Lucas Smith,Dubai,2023-03-04
+79,Kate Ali,Al Ain,2024-08-21
+80,Anna Ali,Dubai ,2023-06-11
+81,Tom Ali,Dubai ,2023-07-10
+82,Noah Lee,Dubai ,2024-11-22
+83,Noah Ali,Dubai,2024-08-06
+84,Tom Lee,Al Ain,2024-09-26
+85,Liam Ivanov,Ajman,2023-11-20
+86,Liam Lee,dubai,2023-09-02
+87,Sophia Lee,Ajman,2024-11-18
+88,Tom Smith,Fujairah,2025-02-08
+89,Maria Smith,Al Ain,2024-09-28
+90,Liam Ivanov,Ajman,2023-08-07
+91,Noah Brown,Sharjah,2023-03-12
+92,Alex Johnson,Al Ain,2023-06-11
+93,Sophia Ali,Al Ain,2024-12-21
+94,Sophia Kim,Dubai ,2023-01-09
+95,Liam Smith,Dubai ,2023-05-18
+96,John Brown,Sharjah,2025-01-30
+97,Emma Kim,Ajman,2024-09-11
+98,Liam Ali,Fujairah,2023-07-28
+99,Anna Smith,Ras Al Khaimah,2023-09-15
+100,Liam Smith,Dubai,2025-04-29
+101,John Kim,Sharjah,2023-12-08
+102,Alex Ali,Ras Al Khaimah,2023-06-15
+103,Ivan Smith,Dubai ,2024-07-28
+104,John Ali,Dubai,2024-12-08
+105,John Lee,dubai,2024-01-14
+106,Sophia Brown,Dubai,2023-02-12
+107,Emma Kim,Abu Dhabi,2024-01-02
+108,Maria Brown,Al Ain,2024-11-13
+109,John Ivanov,dubai,2024-02-21
+110,Olivia Lee,Dubai,2025-03-30
+111,Lucas Johnson,Ras Al Khaimah,2023-07-03
+112,Noah Brown,dubai,2025-04-01
+113,Maria Lee,Dubai,2025-03-17
+114,Noah Ivanov,Fujairah,2024-04-26
+115,Sophia Johnson,Abu Dhabi,2023-12-25
+116,Ivan Kim,Abu Dhabi,2023-08-17
+117,Lucas Brown,Dubai ,2024-02-13
+118,Liam Brown,Al Ain,2025-03-02
+119,Lucas Smith,Dubai ,2024-02-14
+120,Olivia Ali,Sharjah,2023-09-25
+121,Maria Ali,Ras Al Khaimah,2023-02-09
+122,Lucas Lee,Al Ain,2023-12-20
+123,Daniel Ali,Abu Dhabi,2023-04-29
+124,Anna Kim,Ras Al Khaimah,2023-09-18
+125,Emma Brown,Ras Al Khaimah,2023-01-02
+126,Lucas Ali,Ajman,2023-03-13
+127,Maria Kim,Sharjah,2024-11-10
+128,Sophia Kim,Ras Al Khaimah,2024-06-03
+129,Daniel Kim,Sharjah,2023-12-01
+130,John Ivanov,Ras Al Khaimah,2024-07-21
+131,Daniel Kim,dubai,2024-11-11
+132,Sophia Lee,Al Ain,2024-09-22
+133,Sophia Brown,Abu Dhabi,2023-01-01
+134,Lucas Lee,Fujairah,2024-03-16
+135,Emma Ali,Fujairah,2024-03-28
+136,Olivia Kim,Dubai ,2025-03-23
+137,Lucas Smith,Abu Dhabi,2023-10-18
+138,Sophia Ivanov,Abu Dhabi,2024-11-19
+139,Ivan Smith,Abu Dhabi,2023-05-31
+140,Tom Lee,Ras Al Khaimah,2024-05-01
+141,Emma Kim,Ras Al Khaimah,2024-10-06
+142,Daniel Ivanov,dubai,2024-05-21
+143,Ivan Johnson,Dubai ,2024-11-02
+144,Sara Ivanov,dubai,2025-03-08
+145,Alex Smith,Al Ain,2025-04-03
+146,Maria Lee,dubai,2023-09-13
+147,Alex Kim,Al Ain,2025-03-31
+148,Lucas Johnson,Fujairah,2024-07-26
+149,Sara Johnson,Al Ain,2024-09-19
+150,Olivia Kim,Fujairah,2024-04-01
+151,Liam Johnson,Abu Dhabi,2024-04-05
+152,Liam Johnson,Al Ain,2024-10-14
+153,Noah Brown,Fujairah,2024-05-11
+154,Sophia Ivanov,Sharjah,2023-03-21
+155,Lucas Ali,Dubai ,2023-12-10
+156,John Ivanov,Ras Al Khaimah,2023-05-22
+157,John Kim,Abu Dhabi,2024-12-11
+158,Sara Lee,Ajman,2023-03-07
+159,Alex Lee,Dubai,2024-07-09
+160,Sara Lee,Dubai,2023-07-31
+161,Daniel Lee,Dubai,2025-02-22
+162,Sophia Johnson,Ras Al Khaimah,2023-12-27
+163,Noah Lee,Abu Dhabi,2024-03-05
+164,Sara Lee,Dubai,2023-10-07
+165,Lucas Kim,Ras Al Khaimah,2024-02-03
+166,Olivia Johnson,Fujairah,2025-01-11
+167,Ivan Lee,Dubai,2023-05-11
+168,Sara Ivanov,Fujairah,2023-03-27
+169,Anna Brown,Ras Al Khaimah,2023-07-06
+170,Emma Lee,Ajman,2023-12-02
+171,Daniel Brown,Ras Al Khaimah,2023-12-12
+172,Tom Lee,Dubai,2023-09-16
+173,Anna Brown,Abu Dhabi,2025-02-06
+174,Tom Johnson,Dubai,2024-10-27
+175,Ivan Ivanov,Abu Dhabi,2025-02-11
+176,John Ivanov,dubai,2023-01-21
+177,Maria Ali,Abu Dhabi,2024-04-29
+178,Liam Johnson,Ajman,2024-04-21
+179,Maria Johnson,dubai,2023-06-21
+180,Maria Ali,Dubai,2023-11-15
+181,Daniel Lee,Abu Dhabi,2023-11-16
+182,Noah Smith,Sharjah,2023-03-19
+183,Maria Johnson,Dubai,2024-12-01
+184,Sara Kim,Ajman,2023-12-22
+185,Lucas Smith,Ras Al Khaimah,2023-03-12
+186,Kate Smith,Ras Al Khaimah,2025-04-22
+187,Alex Kim,dubai,2024-01-06
+188,Olivia Kim,Al Ain,2024-03-21
+189,Liam Ali,Al Ain,2024-10-28
+190,Kate Lee,Ras Al Khaimah,2025-03-04
+191,Liam Brown,Abu Dhabi,2025-04-25
+192,Tom Brown,Fujairah,2025-04-30
+193,Alex Ali,Ras Al Khaimah,2023-09-07
+194,Ivan Lee,Ajman,2023-12-11
+195,Kate Ivanov,Ajman,2023-07-06
+196,Liam Brown,Sharjah,2025-03-27
+197,Liam Ali,Dubai,2024-09-02
+198,Emma Smith,Abu Dhabi,2024-06-13
+199,Sara Lee,Al Ain,2025-01-07
+200,Noah Kim,Fujairah,2025-02-15
+201,Kate Lee,Dubai,2024-10-23
+202,Sophia Ivanov,Ras Al Khaimah,2023-04-06
+203,Noah Brown,Ajman,2024-12-09
+204,Mia Lee,Al Ain,2024-04-29
+205,Mia Kim,Fujairah,2023-12-05
+206,Sophia Brown,Abu Dhabi,2023-10-05
+207,Emma Brown,Dubai ,2023-05-04
+208,Olivia Ivanov,Abu Dhabi,2025-01-30
+209,Kate Brown,Al Ain,2025-01-26
+210,Sophia Smith,Abu Dhabi,2024-09-03
+211,Noah Brown,dubai,2023-10-31
+212,Ivan Kim,Al Ain,2023-11-06
+213,Liam Smith,Dubai,2023-05-10
+214,Sophia Kim,dubai,2024-07-20
+215,Kate Smith,Dubai,2024-10-15
+216,Sophia Lee,Fujairah,2024-08-10
+217,Lucas Ivanov,Dubai,2024-03-27
+218,Kate Smith,Dubai ,2023-09-16
+219,Kate Smith,Dubai,2024-02-15
+220,John Johnson,Sharjah,2023-06-05
+221,Noah Smith,Al Ain,2023-03-29
+222,Sara Ali,Abu Dhabi,2025-02-21
+223,Daniel Lee,Fujairah,2025-03-05
+224,Sara Brown,Dubai,2023-11-01
+225,Maria Johnson,Abu Dhabi,2024-09-16
+226,Emma Brown,Dubai ,2024-10-02
+227,Noah Ivanov,Al Ain,2023-06-10
+228,Olivia Smith,Ras Al Khaimah,2023-03-18
+229,Kate Brown,Dubai,2024-04-06
+230,Sophia Kim,Sharjah,2023-08-26
+231,Alex Smith,Abu Dhabi,2024-12-20
+232,Emma Lee,Dubai ,2023-09-28
+233,Noah Kim,dubai,2024-07-11
+234,John Smith,Dubai,2023-09-30
+235,Sophia Ali,Sharjah,2023-06-19
+236,Maria Lee,Sharjah,2024-03-25
+237,Daniel Brown,Al Ain,2024-12-17
+238,Kate Lee,Dubai ,2024-07-06
+239,Anna Lee,Ajman,2024-09-04
+240,Liam Smith,Dubai ,2024-09-10
+241,Ivan Johnson,Sharjah,2023-08-23
+242,Anna Johnson,dubai,2024-08-13
+243,Alex Brown,dubai,2024-04-26
+244,Sara Kim,Fujairah,2024-08-22
+245,Kate Brown,Ras Al Khaimah,2023-04-04
+246,Lucas Kim,Dubai ,2023-12-08
+247,Lucas Lee,Fujairah,2023-06-14
+248,Daniel Johnson,Al Ain,2023-10-23
+249,Alex Smith,Ajman,2023-02-07
+250,Lucas Smith,Ras Al Khaimah,2023-09-16
+251,Ivan Kim,Al Ain,2024-06-10
+252,Sara Smith,Abu Dhabi,2024-04-18
+253,Mia Ali,Fujairah,2024-06-14
+254,Alex Johnson,Dubai,2024-10-02
+255,Liam Ali,dubai,2023-07-28
+256,Alex Kim,Fujairah,2023-10-22
+257,Ivan Kim,Abu Dhabi,2023-05-05
+258,Olivia Brown,Al Ain,2024-12-27
+259,Sara Smith,Abu Dhabi,2023-01-15
+260,Alex Smith,dubai,2023-04-27
+261,Sophia Ali,Sharjah,2024-05-25
+262,Kate Lee,Abu Dhabi,2024-03-01
+263,John Lee,Abu Dhabi,2024-04-12
+264,John Johnson,Dubai ,2024-09-05
+265,Sara Brown,Al Ain,2023-10-10
+266,Ivan Brown,Sharjah,2023-10-01
+267,Kate Johnson,dubai,2024-08-24
+268,Kate Brown,Ajman,2024-04-02
+269,Daniel Lee,Ajman,2024-07-19
+270,Noah Ali,Ras Al Khaimah,2023-07-13
+271,Sara Smith,Ajman,2023-08-28
+272,Kate Kim,Ras Al Khaimah,2025-02-01
+273,John Lee,Dubai,2024-01-31
+274,Lucas Johnson,Dubai ,2023-05-10
+275,Maria Ali,Fujairah,2024-03-26
+276,John Lee,dubai,2023-01-16
+277,Kate Johnson,Sharjah,2023-03-18
+278,Daniel Kim,Dubai ,2023-12-13
+279,Daniel Brown,Fujairah,2023-12-03
+280,Anna Ali,Dubai ,2024-07-08
+281,Sophia Ivanov,Dubai ,2023-08-29
+282,Maria Johnson,Dubai ,2024-03-20
+283,Olivia Kim,Sharjah,2024-03-30
+284,Anna Brown,Dubai,2023-01-30
+285,Mia Brown,Ras Al Khaimah,2023-10-28
+286,Noah Ali,Ras Al Khaimah,2023-05-30
+287,Olivia Ivanov,dubai,2024-08-02
+288,Daniel Ali,Abu Dhabi,2023-03-22
+289,John Ivanov,Fujairah,2024-05-24
+290,Liam Lee,Sharjah,2024-10-15
+291,Ivan Johnson,Fujairah,2024-11-13
+292,Olivia Smith,Fujairah,2023-10-22
+293,Sophia Kim,Ras Al Khaimah,2023-12-20
+294,Liam Lee,Sharjah,2024-12-07
+295,Daniel Johnson,Fujairah,2023-07-23
+296,Noah Lee,Ajman,2023-04-20
+297,Sophia Kim,Sharjah,2024-08-11
+298,Daniel Brown,Dubai,2023-01-23
+299,Anna Ali,Fujairah,2024-08-02
+300,Noah Ali,Ajman,2023-10-21
+301,Emma Ali,Sharjah,2023-08-13
+302,John Kim,Dubai ,2024-11-25
+303,Anna Brown,Fujairah,2024-10-04
+304,Mia Kim,dubai,2023-02-04
+305,Sophia Brown,Ras Al Khaimah,2023-04-03
+306,Emma Ivanov,Al Ain,2023-06-29
+307,Liam Johnson,dubai,2024-01-10
+308,Kate Johnson,Sharjah,2023-09-21
+309,Lucas Johnson,Dubai ,2025-02-03
+310,Tom Ivanov,Abu Dhabi,2024-04-24
+311,Daniel Johnson,Al Ain,2024-11-23
+312,Tom Johnson,Ras Al Khaimah,2024-01-10
+313,Liam Ali,Dubai ,2023-01-15
+314,Mia Kim,Sharjah,2024-04-10
+315,Daniel Johnson,Ajman,2024-08-21
+316,Noah Lee,Dubai,2023-04-21
+317,Lucas Ali,Abu Dhabi,2024-09-26
+318,Tom Kim,Fujairah,2024-10-25
+319,Sophia Kim,Ras Al Khaimah,2024-12-18
+320,John Smith,Dubai,2023-04-30
+321,Kate Smith,Dubai ,2023-11-08
+322,John Lee,Fujairah,2023-08-29
+323,Sara Ali,dubai,2024-01-15
+324,Maria Johnson,Fujairah,2024-02-29
+325,Sara Brown,Dubai,2024-09-22
+326,Mia Ivanov,Fujairah,2024-12-07
+327,Noah Johnson,Ajman,2024-03-31
+328,Mia Ali,Ajman,2023-04-12
+329,Daniel Brown,Abu Dhabi,2023-03-04
+330,Alex Smith,Abu Dhabi,2023-05-06
+331,Ivan Smith,Ajman,2024-10-19
+332,John Johnson,Abu Dhabi,2023-09-07
+333,Emma Ali,Abu Dhabi,2023-03-12
+334,Noah Brown,dubai,2025-04-12
+335,Ivan Brown,dubai,2025-03-18
+336,Liam Johnson,dubai,2023-05-14
+337,Ivan Ivanov,Dubai,2023-04-23
+338,Noah Ali,Ajman,2024-01-02
+339,Olivia Brown,Dubai,2023-01-17
+340,Sara Ali,Dubai ,2023-05-10
+341,Tom Lee,Fujairah,2025-02-02
+342,Mia Ali,Dubai ,2025-03-07
+343,Noah Ali,Dubai,2024-04-07
+344,Sophia Lee,Dubai,2025-01-14
+345,Kate Johnson,Ras Al Khaimah,2023-03-04
+346,Maria Lee,Fujairah,2024-03-12
+347,Tom Brown,dubai,2023-03-17
+348,John Brown,Al Ain,2023-03-09
+349,Lucas Lee,Al Ain,2024-12-30
+350,Alex Ali,Ras Al Khaimah,2023-10-29
+351,Maria Johnson,Al Ain,2023-04-12
+352,Emma Lee,Fujairah,2025-01-08
+353,Sara Brown,Fujairah,2023-08-22
+354,Sara Kim,Dubai ,2024-02-13
+355,Sara Brown,Sharjah,2023-11-17
+356,John Kim,Fujairah,2024-01-19
+357,Tom Johnson,Dubai ,2023-03-10
+358,Sara Smith,Ajman,2023-04-06
+359,John Ali,Dubai,2025-04-11
+360,Lucas Kim,Dubai ,2024-08-23
+361,Mia Johnson,Ras Al Khaimah,2024-02-25
+362,Anna Brown,Sharjah,2025-01-08
+363,Maria Ali,Al Ain,2023-12-27
+364,John Kim,Fujairah,2023-08-06
+365,Maria Brown,Al Ain,2023-08-18
+366,Maria Johnson,Sharjah,2024-01-12
+367,Noah Johnson,Ras Al Khaimah,2024-08-10
+368,Ivan Ali,Sharjah,2024-07-28
+369,Olivia Brown,Sharjah,2023-01-30
+370,Mia Smith,dubai,2023-12-14
+371,Daniel Smith,dubai,2023-05-27
+372,Ivan Smith,Al Ain,2025-01-28
+373,Daniel Lee,Fujairah,2023-08-09
+374,Olivia Brown,Sharjah,2023-12-16
+375,Lucas Johnson,Dubai ,2025-01-08
+376,John Ivanov,Dubai,2023-02-23
+377,Tom Brown,Fujairah,2024-11-21
+378,Sara Lee,Fujairah,2024-11-08
+379,Liam Ivanov,Al Ain,2024-02-29
+380,Mia Lee,Dubai ,2023-04-27
+381,Kate Ali,Sharjah,2023-10-18
+382,Noah Lee,Dubai,2023-02-16
+383,Emma Brown,Abu Dhabi,2023-01-08
+384,John Johnson,Sharjah,2025-02-24
+385,Lucas Smith,Dubai,2023-10-24
+386,Sara Ivanov,dubai,2024-05-24
+387,Noah Ali,Al Ain,2024-01-25
+388,Mia Smith,Ras Al Khaimah,2024-11-15
+389,Anna Lee,Dubai,2025-01-29
+390,Tom Johnson,Ajman,2024-04-15
+391,Sara Ali,Ras Al Khaimah,2024-08-12
+392,Sara Brown,Dubai ,2024-12-27
+393,Ivan Brown,dubai,2024-02-19
+394,Alex Johnson,Ajman,2025-03-31
+395,Sara Johnson,Dubai ,2023-04-01
+396,Sara Ali,Ras Al Khaimah,2023-09-07
+397,Tom Lee,Sharjah,2024-06-20
+398,Lucas Ivanov,Ajman,2025-02-02
+399,Olivia Smith,Al Ain,2025-03-08
+400,Maria Ali,Al Ain,2024-10-10
